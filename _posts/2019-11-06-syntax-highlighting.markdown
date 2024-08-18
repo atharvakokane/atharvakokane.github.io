@@ -1,156 +1,20 @@
 ---
 layout: post
-title:  "Syntax highlighting"
-date:   2019-11-06 01:11:00 +0100
+title:  "the first post"
+date:   2024-08-19 1:58 +0400
 categories:
 ---
 
-# Syntax highlighting
-This theme supports syntax respectively code highlighting. Below you find some examples of different programming languages.
+# the first post.
+well i guess this is where we begin. sort of a cliche but i can say the first beginning of many. yes, i am starting my own blog. this blog will mostly centre around things that interest me. now i must warn you, my interests are quite expansive so yes you might like what i push here, but i do not expect everyone to like what they see here. but nonetheless this is kind of the celebration post. i have been wanting to do this for like a year now and i am finally doing it.
 
-<br />ruby:
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
+## my plans.
+honestly i do not have any plans on making this blog a content thing. i merely want this to act as an outlet to my thoughts. what will my first post be about? something i wanted to discuss for a very long time: SOCIAL CONSTRUCTIONISM.
 
-def bubble_sort(list)
-  return list if list.size <= 1 # already sorted
-  swapped = true
-  while swapped do
-    swapped = false
-    0.upto(list.size-2) do |i|
-      if list[i] > list[i+1]
-        list[i], list[i+1] = list[i+1], list[i] # swap values
-        swapped = true
-      end
-    end
-  end
+## what is social constructionism?
+my definition of social constructionism is the process of building a social construct. what is a social construct? anything that is not defined by actual facts but by habits or routine. for example, let's take money as an example. money by some is defined as a way to value commodities, but that is only because we as humans shaped the definition of money to be that.
 
-  list
-end
-{% endhighlight %}
+disclaimer: this is my definition of social constructionism for a more accurate and research based answer i would refer to tom andrews' definition <a href="https://groundedtheoryreview.com/2012/06/01/what-is-social-constructionism/">here</a>.
 
-
-<br /><br />python:
-{% highlight python %}
-def func():
-     # function body
-     print("hello world!")
-
-     def setup(app):
-         # enable Pygments json lexer
-         try:
-             import pygments
-             if pygments.__version__ >= '1.5':
-                 # use JSON lexer included in recent versions of Pygments
-                 from pygments.lexers import JsonLexer
-             else:
-                 # use JSON lexer from pygments-json if installed
-                 from pygson.json_lexer import JSONLexer as JsonLexer
-         except ImportError:
-             pass  # not fatal if we have old (or no) Pygments and no pygments-json
-         else:
-             app.add_lexer('json', JsonLexer())
-
-         return {"parallel_read_safe": True}
-
-words = ['cat', 'window', 'defenestrate']
-for w in words:
-   print w, len(w)
-{% endhighlight %}
-
-
-<br /><br />php:
-{% highlight php %}
-<?php function add($x, $y) {
-    $total = $x + $y;
-    return $total;
-}
-echo "1 + 16 = " . add(1, 16);
-?>
-{% endhighlight %}
-
-
-<br /><br />js:
-{% highlight javascript %}
-function sayHello(name) {
-  if (!name) {
-    console.log('Hello World');
-  } else {
-    console.log(`Hello ${name}`);
-  }  
-}  
-
-function myFunc(a, b) {
-    return a * b;
-}
-document.getElementById('demo').innerHTML = myFunc(4, 3);
-{% endhighlight %}
-
-
-<br /><br />java:
-{% highlight java %}
-class HelloWorldApp {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
-}
-{% endhighlight %}
-
-
-<br />objective c:
-{% highlight objective_c %}
-- (int)method:(int)i {
-    return [self square_root:i];
-}
-{% endhighlight %}
-
-
-<br /><br />perl:
-{% highlight perl %}
-while (<>) {
-    chomp;
-    if (s/$//) {
-        $_ .= <>;
-        redo unless eof();
-    }
-}
-{% endhighlight %}
-
-
-<br /><br />sql:
-{% highlight sql %}
-SELECT Country FROM Customers WHERE Country <> 'USA'
-{% endhighlight %}
-
-
-<br /><br />c++:
-{% highlight c++ %}
-#include
-using namespace std;
-int main () {
-  cout << "Hello World!";
-  return 0;
-}
-{% endhighlight %}
-
-
-<br /><br />c sharp:
-{% highlight c# %}
-class Foo {
-    public int Value;
-    public static explicit operator Foo(int value) {
-        return new Foo(value);
-    }
-}
-Foo foo = (Foo)2;
-{% endhighlight %}
-
-
-<br /><br />vb:
-{% highlight vb linenos %}
-Private Sub Form_Load()
-    MsgBox "Hello, World!"
-End Sub
-{% endhighlight %}
+## what is so interesting about it?
+my theory behind why we study the science of social constructs starts from understanding humans. how do we understand humans? we understand them by understanding how they feel and their emotions. the same goes for communities and social classes; we understand them by understanding social constructs. that's my theory anyway.
