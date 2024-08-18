@@ -4,8 +4,7 @@ url: "https:/atharvakokane.github.io"
 
 header_pages:
   - index.md
-  - about.md
-  - contact.md
+  - blog.md
 
 style: dark
 
