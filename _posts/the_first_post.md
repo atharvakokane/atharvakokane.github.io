@@ -2,7 +2,7 @@
 layout: post
 title:  "the first post"
 date:   08-19-2024
-categories: blog
+categories:
 ---
 
 # the first post.
