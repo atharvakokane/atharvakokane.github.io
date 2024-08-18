@@ -4,11 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Other Demo Pages
+# hello.
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
-
-# Welcome
-
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+hey i am atharva kokane. a high school student currently interested in computer science, music, mathematics and sometimes politics and economics. this will be sort of a blog to me for the unforseeable future. happy reading!
