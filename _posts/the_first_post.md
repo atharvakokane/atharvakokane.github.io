@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "the first post"
-date:   08-19-2024
+date:   08-19-2024 1:58 +0400
 categories:
 ---
 
