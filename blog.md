@@ -1,6 +1,6 @@
 ---
 title: /blog
-layout: blog
+layout: home
 permalink: /blog
 ---
 
