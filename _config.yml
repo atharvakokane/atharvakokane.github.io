@@ -1,6 +1,7 @@
 title: 'atharvakokane.github.io'
 baseurl: "/"
 url: "https:/atharvakokane.github.io"
+google_analytics: G-NPKT7VPC3B
 
 header_pages:
   - index.md
