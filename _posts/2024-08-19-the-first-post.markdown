@@ -17,7 +17,7 @@ honestly i do not have any plans on making this blog a content thing. i merely w
 
 my definition of social constructionism is the process of building a social construct. what is a social construct? anything that is not defined by actual facts but by habits or routine. for example, let's take money as an example. money by some is defined as a way to value commodities, but that is only because we as humans shaped the definition of money to be that.
 
-disclaimer: this is my definition of social constructionism for a more accurate and research based answer i would refer to tom andrews' definition <a href="https://groundedtheoryreview.com/2012/06/01/what-is-social-constructionism/">here</a>.
+disclaimer: this is my definition of social constructionism for a more accurate and research based answer i would refer to tom andrews' definition [here](https://groundedtheoryreview.com/2012/06/01/what-is-social-constructionism/).
 
 ## what is so interesting about it?
 
