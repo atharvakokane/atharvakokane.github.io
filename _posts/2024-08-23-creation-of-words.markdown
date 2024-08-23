@@ -10,7 +10,7 @@ categories:
 i am reading this book by r.f. kuang called babel which constitutes of this magical world that runs on sorcery related to silver and etymology of words from different languages. it got me wondering what are some words that have interesting histories. turns out there are way more than i thought! around 80% of english is made of loan words.
 
 # words i found interesting.
-<br />
+
 >**clue**
 >>the word clue is taken from word 'clew' in greek mythology. the story is that a king named thesus was lost in a labyrinth and used a ball of yarn or a 'clew' to find his way out. hence, the meaning of clue is to direct us towards the truth.
 
