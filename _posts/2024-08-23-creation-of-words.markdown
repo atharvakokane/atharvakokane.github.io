@@ -20,4 +20,4 @@ i am reading this book by r.f. kuang called babel which constitutes of this magi
 >**chariot**
 >>latin to me is such an interesting language to me, because it's the parent language to almost every language. the word chariot is derived from the old french word 'char' which means cart, whcih inturn is taken from the latin word 'carrus' which means wheeled vehicle. now, in french chariot means the trolleys that you find in supermarkets. interesting isn't it?
 
-this is just the beginning to a maze of words and languages. if you haven't read babel, i highly recommend it, especially to anyone who loves to study etymology.
+this is just the beginning to a maze of words and languages. if you haven't read babel, i highly recommend it, especially to anyone who loves to study etymology. you can find the book on goodreads [here](https://www.goodreads.com/book/show/57945316-babel).
