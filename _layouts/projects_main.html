@@ -7,7 +7,7 @@ layout: default
 
 {%- if site.projects.size > 0 -%}
   <ul>
-    {%- for projects in site.projects -%}
+    {%- for project in site.projects -%}
     <li>
       {%- assign date_format = "%Y-%m-%d" -%}
       [ {{ project.date | date: date_format }} ] <a href="{{ project.url | relative_url }}">{{ project.title | escape }}</a>
