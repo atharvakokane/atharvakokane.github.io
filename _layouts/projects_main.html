@@ -10,7 +10,7 @@ layout: default
     {%- for project in site.projects -%}
     <li>
       {%- assign date_format = "%Y-%m-%d" -%}
-      [ {{ project.date | date: date_format }} ] <a href="{{ project.url | relative_url }}">{{ project.title | escape }}</a>
+      [ {{ project.date | date: date_format }} ] <a href="{{ projects_main.url | relative_url }}">{{ project.title | escape }}</a>
     </li>
     {%- endfor -%}
   </ul>
