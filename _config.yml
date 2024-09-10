@@ -6,6 +6,7 @@ google_analytics: G-NPKT7VPC3B
 header_pages:
   - index.md
   - blog.md
+  - projects.md
   - contact.md
   - resume.md
 
