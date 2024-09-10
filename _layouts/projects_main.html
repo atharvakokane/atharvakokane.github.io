@@ -6,12 +6,14 @@ layout: default
 {% assign contentwonl = content | strip_newlines %} {% unless contentwonl == ""  %} <br /> {% endunless %} <!-- add line break if there is any content -->
 
 {%- if site.projects.size > 0 -%}
+  {{ site.projects.size }} projects found.
   <ul>
     {%- for project in site.projects -%}
     <li>
-      {%- assign date_format = "%Y-%m-%d" -%}
-      [ {{ project.date | date: date_format }} ] <a href="{{ project.url | relative_url }}">{{ project.title | escape }}</a>
+      [ {{ project.date | date: "%Y-%m-%d" }} ] <a href="{{ project.url | relative_url }}">{{ project.title | escape }}</a>
     </li>
     {%- endfor -%}
   </ul>
+{%- else -%}
+  No projects found.
 {%- endif -%}
