@@ -6,4 +6,4 @@ permalink: /projects
 
 # previous projects.
 
-[ml research.](_projects/ml-research.markdown)
+[ml research.](files/ml-research.markdown)
