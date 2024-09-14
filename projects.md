@@ -6,5 +6,5 @@ permalink: /projects
 
 # previous projects.
 <ul>
-  <li>[demo.](/../master/_projects/demo.markdown)</li>
+  <li><a href="/../master/_projects/demo.markdown">demo.</a></li>
 </ul>
