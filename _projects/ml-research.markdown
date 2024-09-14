@@ -2,6 +2,7 @@
 layout: post
 title:  "ml research"
 categories: projects
+permalink: /projects/ml-research
 ---
 
 # ml research.
