@@ -1,7 +1,9 @@
 ---
 layout: post
+title:  "ml research"
+categories: projects
 ---
 
-# demo.
+# ml research.
 
-hello
+not going to reveal anything yet, but working on something that i have wanted to for a very long time.
