@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the first post"
+title:  "the first post."
 date:   2024-08-18 11:58 +0400
 categories:
 ---
