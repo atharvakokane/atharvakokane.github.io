@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "creation of words"
+title:  "creation of words."
 date:   2024-08-23 10:06 +0400
 categories:
 ---
