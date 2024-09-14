@@ -6,5 +6,5 @@ permalink: /projects
 
 # previous projects.
 <ul>
-  <li> [ml research.] (../_projects/ml-research.markdown) </li>
+  <li><a href="_projects/ml-research.markdown">ml research.</a></li>
 </ul>
