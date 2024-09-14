@@ -6,5 +6,5 @@ permalink: /projects
 
 # previous projects.
 <ul>
-  <li><a href="https://atharvakokane.github.io/projects/ml-research">ml research.</a></li>
+  <li> [ml research.] (../_projects/ml-research.markdown) </li>
 </ul>
