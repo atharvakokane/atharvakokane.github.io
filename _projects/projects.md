@@ -6,4 +6,6 @@ permalink: /projects
 
 # previous projects.
 
-[ml research.](files/ml-research.markdown)
+## ml research.
+
+don't want to reveal much but i am finally working on something that i have wanted to for almsot a year.
