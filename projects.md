@@ -15,8 +15,9 @@ don't want to reveal much but i am finally working on something that i have want
 
 finally started to leet. i had wanted to for quite some time now (i had mentionned it on <a href="https://atharvakokane.github.io/2024/09/01/life-gone-by.html">a previous post</a>). it is basically a place to practice your skills on programming. if you want to try it out you can try it <a href="https://leetcode.com/">here</a>.
 
-_log_:
-16th september: did my first leetcode. it was the <a href="https://leetcode.com/problems/palindrome-number/description/">palindrome number</a> program.
+**_log_**:
+<br />
+**16th september:** did my first leetcode. it was the <a href="https://leetcode.com/problems/palindrome-number/description/">palindrome number</a> program.
 
 {% highlight python %}
 class Solution:
