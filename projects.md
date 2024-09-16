@@ -16,7 +16,7 @@ finally started to leet. i had wanted to for quite some time now (i had mentionn
 log:
 >16th september: did my first leetcode. it was the palindrome number program.
 
-'''python
+{% highlight python %}
 class Solution:
   def isPalindrome(self, x: int) -> bool:
     num = str(x)
@@ -25,4 +25,4 @@ class Solution:
       return True
     else:
       return False
-'''
+{% end highlight %}
