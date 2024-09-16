@@ -25,4 +25,4 @@ class Solution:
       return True
     else:
       return False
-{% end highlight %}
+{% endhighlight %}
