@@ -4,7 +4,7 @@ layout: projects
 permalink: /projects
 ---
 
-# previous projects.
+# ongoing projects.
 ---
 ## ml research.
 
