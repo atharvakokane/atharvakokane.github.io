@@ -44,3 +44,21 @@ class Solution:
         num += dict1[s[-1]]
         return num
 {% endhighlight %}
+
+<br />**19th september:** this one was a bit hard. had to take a bit of help from the internet. it's called the <a href="https://leetcode.com/problems/valid-parentheses/">valid parentheses</a> program.
+
+{% highlight python %}
+class Solution:
+    def isValid(self, s: str) -> bool:
+    stack = []
+    for i in s:
+        if i == '(':
+            stack.append(')')
+        elif i == '{':
+            stack.append('}')
+        elif i == '[':
+            stack.append(']')
+        elif not stack or stack.pop() != i:
+            return False
+    return not stack
+{% endhighlight %}
