@@ -45,7 +45,7 @@ class Solution:
         return num
 {% endhighlight %}
 
-<br />**19th september:** this one was a bit hard. had to take a bit of help from the internet. it's called the <a href="https://leetcode.com/problems/valid-parentheses/">valid parentheses</a> program.
+<br />**19th september:** this one was a bit hard. had to take a bit of help from the internet. it's called the <a href="https://leetcode.com/problems/valid-parentheses/description/">valid parentheses</a> program.
 
 {% highlight python %}
 class Solution:
@@ -61,4 +61,16 @@ class Solution:
         elif not stack or stack.pop() != i:
             return False
     return not stack
+{% endhighlight %}
+
+<br />**30th september:** i know, i didn't practice for a week... i was busy ok. well anyways, here is the code for the <a href="https://leetcode.com/problems/remove-element/description/">remove element</a> program.
+
+{% highlight python %}
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        while True:
+            if val in nums:
+                nums.remove(val)
+            else:
+                break
 {% endhighlight %}
