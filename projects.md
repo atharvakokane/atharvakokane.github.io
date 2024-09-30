@@ -74,3 +74,18 @@ class Solution:
             else:
                 break
 {% endhighlight %}
+
+<br />alright, so to comeback from my slump, i decided to do 2 codes today. here is the <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/">find the index of the first occurance in a string</a> code.
+
+{% highlight python %}
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        if needle in haystack:
+            for i in range(len(haystack)):
+                if haystack[i : len(needle) + i] == needle:
+                    return i
+        elif len(needle) > len(haystack):
+            return -1
+        else:
+            return -1
+{% endhighlight %}
