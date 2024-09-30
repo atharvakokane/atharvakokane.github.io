@@ -18,7 +18,7 @@ finally started to leet. i had wanted to for quite some time now (i had mentionn
 
 **_log_**:
 
-<br />**16th september:** did my first leetcode. it was the <a href="https://leetcode.com/problems/palindrome-number/description/">palindrome number</a> program.
+**16th september:** did my first leetcode. it was the <a href="https://leetcode.com/problems/palindrome-number/description/">palindrome number</a> program.
 
 {% highlight python %}
 class Solution:
