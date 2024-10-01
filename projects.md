@@ -93,3 +93,18 @@ class Solution:
         else:
             return -1
 {% endhighlight %}
+
+<br />another day another leetcode. here is the <a href="https://leetcode.com/problems/search-insert-position/description/">search insert position</a> code.
+
+{% highlight python %}
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        if needle in haystack:
+            for i in range(len(haystack)):
+                if haystack[i : len(needle) + i] == needle:
+                    return i
+        elif len(needle) > len(haystack):
+            return -1
+        else:
+            return -1
+{% endhighlight %}
