@@ -94,7 +94,7 @@ class Solution:
             return -1
 {% endhighlight %}
 
-<br />another day another leetcode. here is the <a href="https://leetcode.com/problems/search-insert-position/description/">search insert position</a> code.
+<br />**1st october:** another day another leetcode. here is the <a href="https://leetcode.com/problems/search-insert-position/description/">search insert position</a> code.
 
 {% highlight python %}
 class Solution:
