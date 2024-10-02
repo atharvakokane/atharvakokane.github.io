@@ -109,7 +109,7 @@ class Solution:
             return -1
 {% endhighlight %}
 
-<br />**1st october:** ok so today's code was quite easy. i know, i am getting lazy with these. i will do a hard one later today or maybe tomorrow. here is the code for <a href='https://leetcode.com/problems/multiply-strings/description/'>multiply strings</a> program.
+<br />**2nd october:** ok so today's code was quite easy. i know, i am getting lazy with these. i will do a hard one later today or maybe tomorrow. here is the code for <a href='https://leetcode.com/problems/multiply-strings/description/'>multiply strings</a> program.
 
 {% highlight python %}
 class Solution:
