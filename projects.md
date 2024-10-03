@@ -116,3 +116,18 @@ class Solution:
     def multiply(self, num1: str, num2: str) -> str:
         return str(int(num1)*int(num2))
 {% endhighlight %}
+
+<br />**3rd october:** just smashed this code in one try. here is the code for <a href="https://leetcode.com/problems/length-of-last-word/description/">length of last word</a> program.
+
+{% highlight python %}
+class Solution:
+    def lengthOfLastWord(self, s: str) -> int:
+        word = s.strip()
+        count = 0
+        for i in word[::-1]:
+            if i == " ":
+                break
+            else:
+                count += 1
+        return count
+{% endhighlight %}
