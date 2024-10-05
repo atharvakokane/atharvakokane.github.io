@@ -131,3 +131,22 @@ class Solution:
                 count += 1
         return count
 {% endhighlight %}
+
+<br />**5th october:** learnt a few things about string methods and their differences today. let's see if i can transition in c soon. here is the code for <a href="https://leetcode.com/problems/valid-palindrome/description/">valid pallindrome</a> program.
+
+{% highlight python %}
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        sentence = s.strip()
+        if not sentence:
+            return True
+        else:
+            word = ""
+            for i in sentence:
+                if i.isalnum():
+                    word += i
+            if word.lower() == word[::-1].lower():
+                return True
+            else:
+                return False
+{% endhighlight %}
