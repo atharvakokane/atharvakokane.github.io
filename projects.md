@@ -150,3 +150,17 @@ class Solution:
             else:
                 return False
 {% endhighlight %}
+
+<br />**7th october:** i had the worst runtime on this. i got a  3036 ms runtime which only beats 5% of the answers. well anyways here is the code for <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">remove duplicates from sorted array</a> program.
+
+{% highlight python %}
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        if not nums:
+            return []
+        else:
+            for i in nums:
+                while nums.count(i) > 1:
+                    nums.remove(i)
+            return len(nums)
+{% endhighlight %}
