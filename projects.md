@@ -164,3 +164,10 @@ class Solution:
                     nums.remove(i)
             return len(nums)
 {% endhighlight %}
+
+<br />**8th october:** tried my first sql leet today. here is the code for <a href="https://leetcode.com/problems/duplicate-emails/description/">duplicate emails</a> program.
+
+{% highlight sql %}
+SELECT EMAIL FROM PERSON
+GROUP BY EMAIL HAVING COUNT(EMAIL) > 1
+{% endhighlight %}
