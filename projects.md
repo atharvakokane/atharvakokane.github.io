@@ -171,3 +171,15 @@ class Solution:
 SELECT EMAIL FROM PERSON
 GROUP BY EMAIL HAVING COUNT(EMAIL) > 1
 {% endhighlight %}
+
+<br />**9th october:** did another leet with a friend today. credits to abhinav menon for solving this. here is the code for <a href="https://leetcode.com/problems/power-of-two/description/">power of two</a> program.
+
+{% highlight python %}
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool: 
+        for i in range(32):
+            if 2**i == n:
+                return True
+        else:
+            return False
+{% endhighlight %}
