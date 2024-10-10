@@ -6,7 +6,12 @@ permalink: /projects
 
 # ongoing projects.
 
+> [ml research.](#ml_research)
+> [leetcode.](#leetcode)
 ---
+
+
+<a id="ml_research"></a>
 
 ## ml research.
 ---
@@ -16,6 +21,8 @@ don't want to reveal much but i am finally working on something that i have want
 **_log_**:
 
 **10th october:** well finally finished the first draft of the survey questions. yes, yes i know i did not yet reveal what i am researching about. patience my friends.
+
+<a id="leetcode"></a>
 
 ## leetcode.
 ---
