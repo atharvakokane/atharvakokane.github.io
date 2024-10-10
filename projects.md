@@ -13,6 +13,10 @@ permalink: /projects
 
 don't want to reveal much but i am finally working on something that i have wanted to for almost a year.
 
+**_log_**:
+
+**10th october:** well finally finished the first draft of the survey questions. yes, yes i know i did not yet reveal what i am researching about. patience my friends.
+
 ## leetcode.
 ---
 
@@ -182,4 +186,17 @@ class Solution:
                 return True
         else:
             return False
+{% endhighlight %}
+
+<br />**10th october:** learned a new function today. a really interesting one called set. well anyways here is the code for <a href="https://leetcode.com/problems/majority-element/description/">majority element</a> program.
+
+{% highlight python %}
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        setnums = set(nums)
+        most = 0
+        for i in setnums:
+            if nums.count(i) > nums.count(most):
+                most = i
+        return most
 {% endhighlight %}
