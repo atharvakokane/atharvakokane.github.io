@@ -5,11 +5,10 @@ permalink: /projects
 ---
 
 # ongoing projects.
+---
 
 > [ml research.](#ml_research)
 > [leetcode.](#leetcode)
----
-
 
 <a id="ml_research"></a>
 
