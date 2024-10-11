@@ -3,7 +3,7 @@ layout: post
 title: "life gone by."
 date: 2024-09-01 09:06 +0400
 ---
-<a href="life_gone_by"></a>
+<a id="life_gone_by"></a>
 # life gone by.
 
 ---
