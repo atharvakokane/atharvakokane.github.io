@@ -31,7 +31,7 @@ finally started to leet. i had wanted to for quite some time now (i had mentionn
 
 **_log_**:
 
-**16th september:** did my first leetcode. it was the <a href="https://leetcode.com/problems/palindrome-number/description/">palindrome number</a> program.
+**16th september:** did my first leetcode. it was the <a href="https://leetcode.com/problems/palindrome-number/description/" target= _blank >palindrome number</a> program.
 
 {% highlight python %}
 class Solution:
@@ -44,7 +44,7 @@ class Solution:
             return False
 {% endhighlight %}
 
-<br />**17th september:** finished the <a href="https://leetcode.com/problems/roman-to-integer/description/">roman to integer</a> program.
+<br />**17th september:** finished the <a href="https://leetcode.com/problems/roman-to-integer/description/" target= _blank >roman to integer</a> program.
 
 {% highlight python %}
 class Solution:
@@ -60,7 +60,7 @@ class Solution:
         return num
 {% endhighlight %}
 
-<br />**19th september:** this one was a bit hard. had to take a bit of help from the internet. it's called the <a href="https://leetcode.com/problems/valid-parentheses/description/">valid parentheses</a> program.
+<br />**19th september:** this one was a bit hard. had to take a bit of help from the internet. it's called the <a href="https://leetcode.com/problems/valid-parentheses/description/" target= _blank >valid parentheses</a> program.
 
 {% highlight python %}
 class Solution:
@@ -78,7 +78,7 @@ class Solution:
     return not stack
 {% endhighlight %}
 
-<br />**30th september:** i know, i didn't practice for a week... i was busy ok. well anyways, here is the code for the <a href="https://leetcode.com/problems/remove-element/description/">remove element</a> program.
+<br />**30th september:** i know, i didn't practice for a week... i was busy ok. well anyways, here is the code for the <a href="https://leetcode.com/problems/remove-element/description/" target= _blank >remove element</a> program.
 
 {% highlight python %}
 class Solution:
@@ -90,7 +90,7 @@ class Solution:
                 break
 {% endhighlight %}
 
-<br />alright, so to comeback from my slump, i decided to do 2 codes today. here is the <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/">find the index of the first occurance in a string</a> code.
+<br />alright, so to comeback from my slump, i decided to do 2 codes today. here is the <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/" target= _blank >find the index of the first occurance in a string</a> code.
 
 {% highlight python %}
 class Solution:
@@ -105,7 +105,7 @@ class Solution:
             return -1
 {% endhighlight %}
 
-<br />**1st october:** another day another leetcode. here is the <a href="https://leetcode.com/problems/search-insert-position/description/">search insert position</a> code.
+<br />**1st october:** another day another leetcode. here is the <a href="https://leetcode.com/problems/search-insert-position/description/" target= _blank >search insert position</a> code.
 
 {% highlight python %}
 class Solution:
@@ -120,7 +120,7 @@ class Solution:
             return -1
 {% endhighlight %}
 
-<br />**2nd october:** ok so today's code was quite easy. i know, i am getting lazy with these. i will do a hard one later today or maybe tomorrow. here is the code for <a href='https://leetcode.com/problems/multiply-strings/description/'>multiply strings</a> program.
+<br />**2nd october:** ok so today's code was quite easy. i know, i am getting lazy with these. i will do a hard one later today or maybe tomorrow. here is the code for <a href='https://leetcode.com/problems/multiply-strings/description/' target= _blank >multiply strings</a> program.
 
 {% highlight python %}
 class Solution:
@@ -128,7 +128,7 @@ class Solution:
         return str(int(num1)*int(num2))
 {% endhighlight %}
 
-<br />**3rd october:** just smashed this code in one try. here is the code for <a href="https://leetcode.com/problems/length-of-last-word/description/">length of last word</a> program.
+<br />**3rd october:** just smashed this code in one try. here is the code for <a href="https://leetcode.com/problems/length-of-last-word/description/" target= _blank >length of last word</a> program.
 
 {% highlight python %}
 class Solution:
@@ -143,7 +143,7 @@ class Solution:
         return count
 {% endhighlight %}
 
-<br />**5th october:** learnt a few things about string methods and their differences today. let's see if i can transition in c soon. here is the code for <a href="https://leetcode.com/problems/valid-palindrome/description/">valid pallindrome</a> program.
+<br />**5th october:** learnt a few things about string methods and their differences today. let's see if i can transition in c soon. here is the code for <a href="https://leetcode.com/problems/valid-palindrome/description/" target= _blank >valid pallindrome</a> program.
 
 {% highlight python %}
 class Solution:
@@ -162,7 +162,7 @@ class Solution:
                 return False
 {% endhighlight %}
 
-<br />**7th october:** i had the worst runtime on this. i got a  3036 ms runtime which only beats 5% of the answers. well anyways here is the code for <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">remove duplicates from sorted array</a> program.
+<br />**7th october:** i had the worst runtime on this. i got a  3036 ms runtime which only beats 5% of the answers. well anyways here is the code for <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/" target= _blank >remove duplicates from sorted array</a> program.
 
 {% highlight python %}
 class Solution:
@@ -176,14 +176,14 @@ class Solution:
             return len(nums)
 {% endhighlight %}
 
-<br />**8th october:** tried my first sql leet today. here is the code for <a href="https://leetcode.com/problems/duplicate-emails/description/">duplicate emails</a> program.
+<br />**8th october:** tried my first sql leet today. here is the code for <a href="https://leetcode.com/problems/duplicate-emails/description/" target= _blank >duplicate emails</a> program.
 
 {% highlight sql %}
 SELECT EMAIL FROM PERSON
 GROUP BY EMAIL HAVING COUNT(EMAIL) > 1
 {% endhighlight %}
 
-<br />**9th october:** did another leet with a friend today. credits to abhinav menon for solving this. here is the code for <a href="https://leetcode.com/problems/power-of-two/description/">power of two</a> program.
+<br />**9th october:** did another leet with a friend today. credits to abhinav menon for solving this. here is the code for <a href="https://leetcode.com/problems/power-of-two/description/" target= _blank >power of two</a> program.
 
 {% highlight python %}
 class Solution:
@@ -195,7 +195,7 @@ class Solution:
             return False
 {% endhighlight %}
 
-<br />**10th october:** learned a new function today. a really interesting one called set. well anyways here is the code for <a href="https://leetcode.com/problems/majority-element/description/">majority element</a> program.
+<br />**10th october:** learned a new function today. a really interesting one called set. well anyways here is the code for <a href="https://leetcode.com/problems/majority-element/description/" target= _blank >majority element</a> program.
 
 {% highlight python %}
 class Solution:
