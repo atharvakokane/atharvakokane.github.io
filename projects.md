@@ -27,7 +27,7 @@ don't want to reveal much but i am finally working on something that i have want
 ---
 
 finally started to leet. i had wanted to for quite some time now (i had mentionned it on 
-<a href = "#life_gone_by" target = "_blank">a previous post</a>). it is basically a place to practice your skills on programming. if you want to try it out you can try it <a href = "https://leetcode.com/" target= _blank >here</a>.
+<a href = "https://atharvakokane.github.io/2024/09/01/life-gone-by.html" target = "_blank">a previous post</a>). it is basically a place to practice your skills on programming. if you want to try it out you can try it <a href = "https://leetcode.com/" target= _blank >here</a>.
 
 **_log_**:
 
