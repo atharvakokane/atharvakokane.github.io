@@ -15,11 +15,14 @@ permalink: /projects
 ## ml research.
 ---
 
-don't want to reveal much but i am finally working on something that i have wanted to for almost a year.
+(updated on 11th october)
+i really was interested in the notion of social constructionism at a point in time. so, i decided to see how social constructs over time and how they can defined now using ml algorithms on public surveys.
 
 **_log_**:
 
 **10th october:** well finally finished the first draft of the survey questions. yes, yes i know i did not yet reveal what i am researching about. patience my friends.
+
+<br />**11th october:** scheduled a meeting to discuss shortlisting and also finally released the idea behind the research.
 
 <a id="leetcode"></a>
 
