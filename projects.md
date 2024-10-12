@@ -228,3 +228,25 @@ class Solution:
                 list1.append(str(i))
         return list1
 {% endhighlight %}
+
+<br />**12th october:** today's was a bit tricky. here is the code for <a href = "https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150" target = _blank>merge sorted array</a> program.
+
+{% highlight python %}
+class Solution:
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+        for i in nums1:
+            if i != 0:
+                m += 1
+        for j in nums2:
+            if j:
+                n += 1
+        temp = n - 1
+        for k in nums1[::-1]:
+            if k == 0 and temp > 0:
+                nums1.pop()
+                temp -= 1
+            else:
+                break
+        nums1.extend(nums2)
+        nums1.sort()
+{% endhighlight %}
