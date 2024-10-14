@@ -24,6 +24,10 @@ i really was interested in the notion of social constructionism at a point in ti
 
 <br />**11th october:** scheduled a meeting to discuss shortlisting and also finally released the idea behind the research.
 
+<br />**13th october:** so the meeting did not happen, but we did go through our next steps and a bit of our timeline.
+
+<br />**14th october:** got on call with on of the members of the research team, atiyah sajith, to go through the basic outline of a convolutional neural network (cnn). this would give us a basic understanding of how an llm would work when it comes to the later stage of research.
+
 <a id="leetcode"></a>
 
 ## leetcode.
@@ -248,4 +252,14 @@ class Solution:
                 break
         nums1.extend(nums2)
         nums1.sort()
+{% endhighlight %}
+
+<br />**14th october:** ok i know what you guys will be saying. atharva you missed another day. i didn't guys, i just didnt post it up here cause i did like 5 leets yesterday! well anyways, credits to ganga devi for helping me with this one. here is the code for the <a href = "https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150" target = _blank>rotate array</a> program.
+
+{% highlight python %}
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
+        for i in range(k):
+            x = nums.pop()
+            nums.insert(0, x)
 {% endhighlight %}
