@@ -9,6 +9,7 @@ permalink: /projects
 
 - [ml research.](#ml_research)
 - [leetcode.](#leetcode)
+- [advent of code 2024.](#advent_of_code_2024)
 
 <a id="ml_research"></a>
 
@@ -263,3 +264,10 @@ class Solution:
             x = nums.pop()
             nums.insert(0, x)
 {% endhighlight %}
+
+<a id="advent_of_code_2024"></a>
+
+## advent of code 2024.
+---
+
+every year there is an event called the advent of code organized by <a href = "http://was.tl/" target = _blank>eric wastl</a>. it is a christmas themed coding challenge that i will be doing this year. i found out abbout this challenge through a friend of mine <a href = "https://www.arjunyadav.net/" target = _blank>arjun yadav</a>.
