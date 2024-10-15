@@ -270,4 +270,4 @@ class Solution:
 ## advent of code 2024.
 ---
 
-every year there is an event called the advent of code organized by <a href = "http://was.tl/" target = _blank>eric wastl</a>. it is a christmas themed coding challenge that i will be doing this year. i found out abbout this challenge through a friend of mine <a href = "https://www.arjunyadav.net/" target = _blank>arjun yadav</a>.
+every year there is an event called the advent of code organized by <a href = "http://was.tl/" target = _blank>eric wastl</a>. it is a christmas themed coding challenge that i will be taking part in this year. i found out abbout this challenge through a friend of mine <a href = "https://www.arjunyadav.net/" target = _blank>arjun yadav</a>.
