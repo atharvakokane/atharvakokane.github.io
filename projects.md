@@ -265,6 +265,20 @@ class Solution:
             nums.insert(0, x)
 {% endhighlight %}
 
+<br />**16th october:** ok i actually missed another day yesterday. here is the code for the <a href = "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150" target = _blank>best time to buy and sell stock</a> program.
+
+{% highlight python %}
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        buy_price = prices[0]
+        profit = 0
+        for i in prices[1:]:
+            if buy_price > i:
+                buy_price = i
+            profit = max(profit, i - buy_price)
+        return profit
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
