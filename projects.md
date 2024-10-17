@@ -300,3 +300,58 @@ class Solution:
 ---
 
 every year there is an event called the advent of code organized by <a href = "http://was.tl/" target = _blank>eric wastl</a>. it is a christmas themed coding challenge that i will be taking part in this year. i found out abbout this challenge through a friend of mine <a href = "https://www.arjunyadav.net/" target = _blank>arjun yadav</a>.
+
+**_log_**:
+
+**17th october:** so i decided to try the 2023 problems to prepare for this year and oh. my. god. i want to actually jam a pen in my eye. i did it at last but it took a lot of brain power and a lot of lines of code. well anyways here is the code for day 1. here is the code:
+
+{% highlight python %}
+lines = []
+with open('input_day1.txt', 'r') as file:
+    for line in file:
+        lines.append(line.strip())
+
+def numsubwordcheck(wor):
+    numwords = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
+    for i in numwords:
+        if i in wor:
+            return True
+    return False
+
+def numsubword(wor):
+    numwords = {'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5', 'six': '6', 'seven': '7', 'eight': '8', 'nine': '9'}
+    for i in numwords:
+        if i in wor:
+            return numwords[i]
+    return None
+
+def calib_num(wor):
+
+    subword1 = ''
+    fir = None
+    for i in range(len(wor)):
+        subword1 += wor[i]
+        if wor[i].isdigit():
+            fir = wor[i]
+            break
+        elif numsubwordcheck(subword1):
+            fir = numsubword(subword1)
+            break
+
+    subword2 = ''
+    sec = None
+    for j in range(len(wor) - 1, -1, -1):
+        subword2 = wor[j] + subword2
+        if wor[j].isdigit():
+            sec = wor[j]
+            break
+        elif numsubwordcheck(subword2):
+            sec = numsubword(subword2)
+            break
+    return (int(fir) * 10 + int(sec))
+
+sum = 0
+for i in lines:
+    sum += calib_num(i)
+print(sum)
+{% endhighlight %}
