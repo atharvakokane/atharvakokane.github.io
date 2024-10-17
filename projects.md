@@ -42,16 +42,16 @@ finally started to leet. i had wanted to for quite some time now (i had mentionn
 
 **16th september:** did my first leetcode. it was the <a href="https://leetcode.com/problems/palindrome-number/description/" target= _blank >palindrome number</a> program.
 
-> {% highlight python %}
-> class Solution:
->     def isPalindrome(self, x: int) -> bool:
->         num = str(x)
->         rev = num[::-1]
->         if num == rev:
->             return True
->         else:
->             return False
-> {% endhighlight %}
+>{% highlight python %}
+>class Solution:
+>    def isPalindrome(self, x: int) -> bool:
+>        num = str(x)
+>        rev = num[::-1]
+>        if num == rev:
+>            return True
+>        else:
+>            return False
+>{% endhighlight %}
 
 <br />**17th september:** finished the <a href="https://leetcode.com/problems/roman-to-integer/description/" target= _blank >roman to integer</a> program.
 
