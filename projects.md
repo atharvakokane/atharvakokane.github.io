@@ -9,7 +9,6 @@ permalink: /projects
 ---
 
 # ongoing projects.
----
 
 - [ml research.](#ml_research)
 - [leetcode.](#leetcode)
