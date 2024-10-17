@@ -8,10 +8,10 @@ permalink: /projects
 
 ---
 
-> # ongoing projects.
->> [ml research.](#ml_research)
->> [leetcode.](#leetcode)
->> [advent of code 2024.](#advent_of_code_2024)
+# ongoing projects.
+> - [ml research.](#ml_research)
+> - [leetcode.](#leetcode)
+> - [advent of code 2024.](#advent_of_code_2024)
 
 <a id="ml_research"></a>
 
