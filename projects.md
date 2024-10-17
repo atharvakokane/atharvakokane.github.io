@@ -4,6 +4,10 @@ layout: projects
 permalink: /projects
 ---
 
+# projects.
+
+---
+
 # ongoing projects.
 ---
 
