@@ -294,6 +294,20 @@ class Solution:
         return True
 {% endhighlight %}
 
+<br />**18th october:** here is the code for the <a href = "https://leetcode.com/problems/number-of-1-bits/description/?envType=study-plan-v2&envId=top-interview-150" target = _blank>number of 1 bits</a> program.
+
+{% highlight python %}
+class Solution:
+    def hammingWeight(self, n: int) -> int:
+        binnum = bin(n)
+        stri = str(binnum)
+        count = 0
+        for i in stri:
+            if i == "1":
+                count += 1
+        return count
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
