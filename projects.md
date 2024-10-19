@@ -326,14 +326,32 @@ with open('input_day1.txt', 'r') as file:
         lines.append(line.strip())
 
 def numsubwordcheck(wor):
-    numwords = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
+    numwords = ['one', 
+    'two', 
+    'three', 
+    'four', 
+    'five', 
+    'six', 
+    'seven', 
+    'eight', 
+    'nine'
+    ]
     for i in numwords:
         if i in wor:
             return True
     return False
 
 def numsubword(wor):
-    numwords = {'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5', 'six': '6', 'seven': '7', 'eight': '8', 'nine': '9'}
+    numwords = {'one': '1', 
+    'two': '2', 
+    'three': '3', 
+    'four': '4', 
+    'five': '5', 
+    'six': '6', 
+    'seven': '7', 
+    'eight': '8', 
+    'nine': '9'
+    }
     for i in numwords:
         if i in wor:
             return numwords[i]
