@@ -308,6 +308,21 @@ class Solution:
         return count
 {% endhighlight %}
 
+<br />**19th october:** need to go get lunch with mom so can't explain much. here is the code for the <a href = "https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=top-interview-150" blank = _blank>plus one</a> program.
+
+{% highlight python %}
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        stri = ''
+        for i in digits:
+            stri += str(i)
+        num = str(int(stri) + 1)
+        numlist = []
+        for i in num:
+            numlist.append(int(i))
+        return numlist
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
