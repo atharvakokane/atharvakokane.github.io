@@ -323,6 +323,29 @@ class Solution:
         return numlist
 {% endhighlight %}
 
+<br />**20th october:** well it is technically after 12 am so it is the next day. here is the code for the <a href = "https://leetcode.com/problems/self-dividing-numbers/description/" target = _blank>self dividing numbers</a> code.
+
+{% highlight python %}
+class Solution:
+    def selfDividingNumbers(self, left: int, right: int) -> List[int]:
+        def isdivisible(n):
+            count = 0
+            if '0' in str(n):
+                return False
+            for i in str(n):
+                if n % int(i) == 0:
+                    count += 1
+            if len(str(n)) == count:
+                return True
+            else:
+                return False
+        list1 = []
+        for i in range(left, right + 1):
+            if isdivisible(i):
+                list1.append(i)
+        return list1
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
