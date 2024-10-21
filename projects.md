@@ -346,7 +346,7 @@ class Solution:
         return list1
 {% endhighlight %}
 
-<br />**21st ocytober:** here is the code for the <a href = "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/" target = _blank>number of strings that appear as substrings in word</a> code.
+<br />**21st october:** here is the code for the <a href = "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/" target = _blank>number of strings that appear as substrings in word</a> code.
 
 {% highlight python %}
 class Solution:
