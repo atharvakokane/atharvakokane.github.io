@@ -346,6 +346,18 @@ class Solution:
         return list1
 {% endhighlight %}
 
+<br />**21st ocytober:** here is the code for the <a href = "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/" target = _blank>number of strings that appear as substrings in word</a> code.
+
+{% highlight python %}
+class Solution:
+    def numOfStrings(self, patterns: List[str], word: str) -> int:
+        c = 0
+        for i in patterns:
+            if i in word:
+                c+=1
+        return c
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
