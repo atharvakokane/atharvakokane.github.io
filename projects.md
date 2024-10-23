@@ -358,6 +358,16 @@ class Solution:
         return c
 {% endhighlight %}
 
+<br />**23rd october:** here is the code for the <a href = "https://leetcode.com/problems/smallest-even-multiple/description/" target = _blank>smallest even multiple</a> program.
+
+{% highlight python %}
+class Solution:
+    def smallestEvenMultiple(self, n: int) -> int:
+        for i in range(2, 301):
+            if i % n == 0 and i % 2 == 0:
+                return i
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
