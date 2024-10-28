@@ -389,6 +389,17 @@ class Solution:
         return 1 / ans
 {% endhighlight %}
 
+<br />**28th october:** alright guys, yall were right. the trend breaks. but i had exams alright. you can't blame me. well regardless, here is the most simplest program i could find for today called the <a href = "https://leetcode.com/problems/add-binary/description/" target = _blank>add binary</a> program.
+
+{% highlight python %}
+class Solution:
+    def addBinary(self, a: str, b: str) -> str:
+        num1 = int(a, 2)
+        num2 = int(b, 2)
+        binary = bin(num1+num2)
+        return binary[2:]
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
