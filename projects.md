@@ -31,6 +31,12 @@ i really was interested in the notion of social constructionism at a point in ti
 
 <br />**14th october:** got on call with on of the members of the research team, atiyah sajith, to go through the basic outline of a convolutional neural network (cnn). this would give us a basic understanding of how an llm would work when it comes to the later stage of research.
 
+<br />**21st october:** we got a final set of questions ready for the survey and got a vague idea on how to move forward.
+
+<br />**24th october:** i pilot tested the questions with a subject just in case we need to make adjustments. special thanks to my school's librarian <a href = "https://www.linkedin.com/in/richard-stanley-52366497/?originalSubdomain=ae" target = _blank>mr. richard stanley</a> for being the test subject.
+
+<br />**30th october** finally go to building the forms link from the ground up. got all the questions now just need to make a few adjustments and then test for bias. note that i need to pilot test the survey with a testsize of atleast 10 before it is disseminated.
+
 <a id="leetcode"></a>
 
 ## leetcode.
