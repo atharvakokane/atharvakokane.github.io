@@ -406,6 +406,25 @@ class Solution:
         return binary[2:]
 {% endhighlight %}
 
+<br />**4th november:** ok, now you can blame me for not consistent. here is the <a href = "https://leetcode.com/problems/valid-palindrome/description/" target = _blank>valid palindrome</a> program.
+
+{% highlight python %}
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        if not s:
+            return True
+        else:
+            word = ''
+            for i in s:
+                if i.isalnum():
+                    word += i
+            word = word.lower()
+            if word == word[::-1]:
+                return True
+            else:
+                return False
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
