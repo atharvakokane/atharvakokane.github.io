@@ -425,6 +425,23 @@ class Solution:
                 return False
 {% endhighlight %}
 
+<br />**5th november:** here is the code for the <a href = "https://leetcode.com/problems/perfect-number/description/" target = _blank>perfect number</a> program.
+
+{% highlight python %}
+class Solution:
+    def checkPerfectNumber(self, num: int) -> bool:
+        list1 = [1]
+        if num == 1:
+            return False
+        for i in range(2, int(num ** 0.5) + 1):
+            if num % i == 0:
+                list1.append(i + num//i)
+        if sum(list1) == num:
+            return True
+        else:
+            return False
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
