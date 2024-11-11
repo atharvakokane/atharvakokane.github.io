@@ -442,6 +442,17 @@ class Solution:
             return False
 {% endhighlight %}
 
+<br />**12th november:** i don't want to hear it. anyways, here is the code for the <a href = "https://leetcode.com/problems/two-sum/description/" target = _blank>two sum</a> program.
+
+{% highlight python %}
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for i in range(len(nums)-1):
+            for j in range(i+1, len(nums)):
+                if (nums[i]+nums[j] == target):
+                    return [i,j]
+{% endhighlight %}
+
 <a id="advent_of_code_2024"></a>
 
 ## advent of code 2024.
