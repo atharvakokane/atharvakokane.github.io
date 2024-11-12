@@ -442,7 +442,7 @@ class Solution:
             return False
 {% endhighlight %}
 
-<br />**12th november:** i don't want to hear it. anyways, here is the code for the <a href = "https://leetcode.com/problems/two-sum/description/" target = _blank>two sum</a> program.
+<br />**11th november:** i don't want to hear it, i know i haven't done a leet in a while. anyways, here is the code for the <a href = "https://leetcode.com/problems/two-sum/description/" target = _blank>two sum</a> program.
 
 {% highlight python %}
 class Solution:
@@ -451,6 +451,19 @@ class Solution:
             for j in range(i+1, len(nums)):
                 if (nums[i]+nums[j] == target):
                     return [i,j]
+{% endhighlight %}
+
+<br />**12th november:** i hopefully am back on track. well, here is the code for the <a href = "https://leetcode.com/problems/climbing-stairs/description/" target = _blank>climbing stairs</a> program.
+
+{% highlight python %}
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        if n <= 2:
+            return n
+        onestep, twostep = 1, 2
+        for _ in range(3, n + 1):
+            onestep, twostep = twostep, onestep + twostep
+        return twostep
 {% endhighlight %}
 
 <a id="advent_of_code_2024"></a>
