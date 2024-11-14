@@ -5,6 +5,8 @@ date:   2024-08-23 10:06 +0400
 categories:
 ---
 
+23rd august, friday
+
 # creation of words.
 
 ---
