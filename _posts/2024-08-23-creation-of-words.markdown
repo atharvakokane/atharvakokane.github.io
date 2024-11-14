@@ -5,7 +5,7 @@ date:   2024-08-23 10:06 +0400
 categories:
 ---
 
-23rd august, friday
+_23rd august, friday_
 
 # creation of words.
 
