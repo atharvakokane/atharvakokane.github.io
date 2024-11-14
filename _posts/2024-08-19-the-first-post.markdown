@@ -5,7 +5,7 @@ date:   2024-08-18 11:58 +0400
 categories:
 ---
 
-18th august, sunday
+_18th august, sunday_
 
 # the first post.
 
