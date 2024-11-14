@@ -4,7 +4,7 @@ title: "life gone by."
 date: 2024-09-01 09:06 +0400
 ---
 
-1st september, sunday
+_1st september, sunday_
 
 # life gone by.
 
