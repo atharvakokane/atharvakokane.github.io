@@ -547,3 +547,37 @@ for i in lines:
     sum += calib_num(i)
 print(sum)
 {% endhighlight %}
+
+
+<br />**1st dec:** it was the first day of the advent calender today. so excited, and i found this one to be a little tricky. had to revisit some cbse concepts, but in the end i got it after revising file handling. i also learnt what the zip function does even though i did not use it. great first day though. here is the code:
+
+{% highlight python %}
+file_path = "text day 1.txt"
+
+data = []
+with open(file_path, "r") as file:
+    for line in file:
+        pair = [int(x) for x in line.split()]
+        data.append(pair)
+
+def location_calc(data):
+    left_list = [x[0] for x in data]
+    right_list = [x[1] for x in data]
+    left_list.sort()
+    right_list.sort()
+    total_distance = 0
+    for i in range(len(left_list)):
+        total_distance += abs(left_list[i] - right_list[i])
+    return total_distance
+
+def frequency_location(data):
+    left_list = [x[0] for x in data]
+    right_list = [x[1] for x in data]
+    freq = 0
+    for i in left_list:
+        freq += right_list.count(i) * i
+    return freq
+
+print(location_calc(data))
+print(frequency_location(data))
+{% endhighlight %}
