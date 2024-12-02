@@ -581,3 +581,45 @@ def frequency_location(data):
 print(location_calc(data))
 print(frequency_location(data))
 {% endhighlight %}
+
+<br />**2nd dec:** well 2nd day was not really a hassle. it was just 2 if statements really. the second puzzle was a bit of a challenge but i got past it. used 2 separate functions for the second puzzle to make it well structured, and yes i used a little help from my friend chat gpt for a little bit of the logic. i was stuck for an hour ok. i also have my chemistry practical record to write (ugh... i shouldn't have lost it). anyways, here is the code for the second day:
+
+{% highlight python %}
+file_path = "text day 2.txt"
+
+data = []
+with open(file_path, "r") as file:
+    for line in file:
+        set = [int(x) for x in line.split()]
+        data.append(set)
+
+def safe_checker(data):
+    safe = 0
+    for i in data:
+        if i == sorted(i, reverse=True) or i == sorted(i):
+            if all(abs(i[j] - i[j + 1]) in [1, 2, 3] for j in range(len(i) - 1)):
+                safe += 1
+    return safe
+
+def bool_safe_checker(lst):
+    if lst == sorted(lst, reverse=True) or lst == sorted(lst):
+        if all(abs(lst[j] - lst[j + 1]) in [1, 2, 3] for j in range(len(lst) - 1)):
+            return True
+    return False
+
+def mod_safe_checker(data):
+    safe = 0
+    for lst in data:
+        if bool_safe_checker(lst):
+            safe += 1
+        else:
+            for i in range(len(lst)):
+                temp_lst = lst[:i] + lst[i + 1:]
+                if bool_safe_checker(temp_lst):
+                    safe += 1
+                    break
+    return safe
+
+print(safe_checker(data))
+print(mod_safe_checker(data))
+{% endhighlight %}
