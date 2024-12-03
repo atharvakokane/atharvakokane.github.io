@@ -623,3 +623,55 @@ def mod_safe_checker(data):
 print(safe_checker(data))
 print(mod_safe_checker(data))
 {% endhighlight %}
+
+<br />**3rd dec:** i faced my first defeat today. yes, i know it was bound to happen, but it really sucks. i kinda feel bad, but you can't be great at everything can you? well today's was an interesting one. we learnt alot about character finding and functions to do that in school, but i looked at some of the answers online (yes, i kind of cheated, but not fully. i just wanted to see how others did it). they did it with a library known as regex. i couldn't find any simpler solutions so i had to get creative. in the end i did put it in chat gpt and told it to use regex to see how much better it would be. the results would shock you:
+
+{% highlight python %}
+import re
+
+def computer_decorrupter(file_name):
+    with open(file_name, 'r') as file:
+        total_sum = 0
+
+        for line in file:
+            i = 0
+            length = len(line)
+
+            while i < length:
+                if line[i:i+4] == "mul(":
+                    i += 4
+                    num1 = ""
+                    while i < length and line[i].isdigit():
+                        num1 += line[i]
+                        i += 1
+
+                    if i < length and line[i] == ',':
+                        i += 1
+                        num2 = ""
+                        while i < length and line[i].isdigit():
+                            num2 += line[i]
+                            i += 1
+
+                        if i < length and line[i] == ')':
+                            total_sum += int(num1) * int(num2)
+                i += 1
+
+        return total_sum
+
+def better_computer_decorrupter(file_name):
+    with open(file_name, 'r') as file:
+        total_sum = 0
+        pattern = r"mul\((\d+),(\d+)\)"
+
+        for line in file:
+            matches = re.findall(pattern, line)
+            for match in matches:
+                num1, num2 = match
+                total_sum += int(num1) * int(num2)
+
+        return total_sum
+
+file_name = "text day 3.txt"
+print(f"The sum of all products is: {computer_decorrupter(file_name)}")
+print(f"The sum of all products is: {better_computer_decorrupter(file_name)}")
+{% endhighlight %}
