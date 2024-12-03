@@ -675,3 +675,27 @@ file_name = "text day 3.txt"
 print(f"The sum of all products is: {computer_decorrupter(file_name)}")
 print(f"The sum of all products is: {better_computer_decorrupter(file_name)}")
 {% endhighlight %}
+
+<br />ok, so it's almost midnight and i was checking some solutions online because i could not wrap my head around my defeat and i came across this really elegant answer. yes, i did use it to get my missing star on the second puzzle, but i did learn some regex from this code. credits to <a href = "https://github.com/nitekat1124" target = _blank>nitekat1124</a> for the solution. you can check out the full solution in <a href = "https://github.com/nitekat1124/advent-of-code-2024" target = _blank>this git repository</a>. here is the part of the code that i checked out and was interested in.
+
+{% highlight python %}
+import re
+
+def part2(data):
+    pattern = r"(mul\((\d{1,3}),(\d{1,3})\)|do\(\)|don't\(\))"
+    instructions = re.findall(pattern, "".join(data))
+
+    enabled = True
+    result = 0
+
+    for inst in instructions:
+        match inst[0]:
+            case "do()":
+                enabled = True
+            case "don't()":
+                enabled = False
+            case _ if enabled:
+                result += int(inst[1]) * int(inst[2])
+
+    return result
+    {% endhighlight %}
