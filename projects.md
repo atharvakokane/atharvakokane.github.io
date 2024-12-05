@@ -699,3 +699,57 @@ def part2(data):
 
     return result
     {% endhighlight %}
+
+<br />**5th dec:** yes, i missed a day but i did it today alright. i did the day 4, puzzle one after some help. here is my code for the first puzzle:
+
+{% highlight python %}
+def read_grid_from_file(filename):
+    with open(filename, 'r') as file:
+        return [line.strip() for line in file.readlines()]
+
+def search_string(grid, target):
+    directions = [(0, 1), (1, 0), (1, 1), (1, -1), (0, -1), (-1, 0), (-1, -1), (-1, 1)]
+    count = 0
+
+    for r in range(len(grid)):
+        for c in range(len(grid[0])):
+            for dr, dc in directions:
+                if all(
+                       0 <= r + i * dr < len(grid) 
+                       and 0 <= c + i * dc < len(grid[0]) 
+                       and grid[r + i * dr][c + i * dc] == target[i] 
+                       for i in range(len(target))
+                       ):
+                    count += 1
+
+    return count
+
+grid_filename = 'text day 4.txt'
+target_string = 'XMAS'
+
+grid = read_grid_from_file(grid_filename)
+occurrences = search_string(grid, target_string)
+print(f"The string '{target_string}' was found {occurrences} time(s) in the grid.")
+{% endhighlight %}
+
+<br />after a few minutes of research, i discovered a solution from the same person i referenced the last time. it is interesting.
+
+{% highlight python %}
+def x_search_string(data):
+        rows, cols = len(data), len(data[0])
+        count = 0
+
+        _set = {"M", "S"}
+
+        for r in range(1, rows - 1):
+            for c in range(1, cols - 1):
+                if data[r][c] == "A":
+                    if {data[r - 1][c - 1], data[r + 1][c + 1]} == _set and {data[r - 1][c + 1], data[r + 1][c - 1]} == _set:
+                        count += 1
+
+        return count
+
+grid = read_grid_from_file(grid_filename)
+x_occurrences = x_search_string(grid)
+print(f"The string was found {x_occurrences} time(s) in the grid.")
+{% endhighlight %}
