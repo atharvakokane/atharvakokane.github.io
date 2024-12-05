@@ -753,3 +753,5 @@ grid = read_grid_from_file(grid_filename)
 x_occurrences = x_search_string(grid)
 print(f"The string was found {x_occurrences} time(s) in the grid.")
 {% endhighlight %}
+
+<br />either i am losing my mind or i am just actually stupid. i do not understand the day 5 puzzle. if someone actually understands the puzzle please do reach out.
