@@ -36,7 +36,9 @@ i really was interested in the notion of social constructionism at a point in ti
 
 <br />**24th october:** i pilot tested the questions with a subject just in case we need to make adjustments. special thanks to my school's librarian <a href = "https://www.linkedin.com/in/richard-stanley-52366497/?originalSubdomain=ae" target = _blank>mr. richard stanley</a> for being the test subject.
 
-<br />**30th october** finally go to building the forms link from the ground up. got all the questions now just need to make a few adjustments and then test for bias. note that i need to pilot test the survey with a testsize of atleast 10 before it is disseminated.
+<br />**30th october:** finally go to building the forms link from the ground up. got all the questions now just need to make a few adjustments and then test for bias. note that i need to pilot test the survey with a testsize of atleast 10 before it is disseminated.
+
+<br />**12th december:** got the survey almost done. we got feedback from <a href = "https://arjunyadav.net/" target = _blank>arjun yadav</a> and we are working on the second draft. after it's completion we will be pilot testing the survey on a focus group. if you would like to take part in the study please do reach out to me in the contact tab. well, until then we will work on the survey.
 
 <a id="leetcode"></a>
 
@@ -550,7 +552,7 @@ print(sum)
 {% endhighlight %}
 
 
-<br />**1st dec:** it was the first day of the advent calender today. so excited, and i found this one to be a little tricky. had to revisit some cbse concepts, but in the end i got it after revising file handling. i also learnt what the zip function does even though i did not use it. great first day though. here is the code:
+<br />**1st december:** it was the first day of the advent calender today. so excited, and i found this one to be a little tricky. had to revisit some cbse concepts, but in the end i got it after revising file handling. i also learnt what the zip function does even though i did not use it. great first day though. here is the code:
 
 {% highlight python %}
 file_path = "text day 1.txt"
@@ -583,7 +585,7 @@ print(location_calc(data))
 print(frequency_location(data))
 {% endhighlight %}
 
-<br />**2nd dec:** well 2nd day was not really a hassle. it was just 2 if statements really. the second puzzle was a bit of a challenge but i got past it. used 2 separate functions for the second puzzle to make it well structured, and yes i used a little help from my friend chat gpt for a little bit of the logic. i was stuck for an hour ok. i also have my chemistry practical record to write (ugh... i shouldn't have lost it). anyways, here is the code for the second day:
+<br />**2nd december:** well 2nd day was not really a hassle. it was just 2 if statements really. the second puzzle was a bit of a challenge but i got past it. used 2 separate functions for the second puzzle to make it well structured, and yes i used a little help from my friend chat gpt for a little bit of the logic. i was stuck for an hour ok. i also have my chemistry practical record to write (ugh... i shouldn't have lost it). anyways, here is the code for the second day:
 
 {% highlight python %}
 file_path = "text day 2.txt"
@@ -625,7 +627,7 @@ print(safe_checker(data))
 print(mod_safe_checker(data))
 {% endhighlight %}
 
-<br />**3rd dec:** i faced my first defeat today. yes, i know it was bound to happen, but it really sucks. i kinda feel bad, but you can't be great at everything can you? well today's was an interesting one. we learnt alot about character finding and functions to do that in school, but i looked at some of the answers online (yes, i kind of cheated, but not fully. i just wanted to see how others did it). they did it with a library known as regex. i couldn't find any simpler solutions so i had to get creative. in the end i did put it in chat gpt and told it to use regex to see how much better it would be. the results would shock you:
+<br />**3rd december:** i faced my first defeat today. yes, i know it was bound to happen, but it really sucks. i kinda feel bad, but you can't be great at everything can you? well today's was an interesting one. we learnt alot about character finding and functions to do that in school, but i looked at some of the answers online (yes, i kind of cheated, but not fully. i just wanted to see how others did it). they did it with a library known as regex. i couldn't find any simpler solutions so i had to get creative. in the end i did put it in chat gpt and told it to use regex to see how much better it would be. the results would shock you:
 
 {% highlight python %}
 import re
@@ -701,7 +703,7 @@ def part2(data):
     return result
     {% endhighlight %}
 
-<br />**5th dec:** yes, i missed a day but i did it today alright. i did the day 4, puzzle one after some help. here is my code for the first puzzle:
+<br />**5th december:** yes, i missed a day but i did it today alright. i did the day 4, puzzle one after some help. here is my code for the first puzzle:
 
 {% highlight python %}
 def read_grid_from_file(filename):
@@ -758,7 +760,7 @@ print(f"The string was found {x_occurrences} time(s) in the grid.")
 
 <br />either i am losing my mind or i am just actually stupid. i do not understand the day 5 puzzle. if someone actually understands the puzzle please do reach out.
 
-<br />**11th dec:** i have not touched another problem since the last time. i will get back to it i swear. i will try to solve as many puzzles as i can this year, but i know i won't get the entirety of the 50 stars.
+<br />**11th december:** i have not touched another problem since the last time. i will get back to it i swear. i will try to solve as many puzzles as i can this year, but i know i won't get the entirety of the 50 stars.
 
 <a id="roots_of_unity"></a>
 
@@ -769,6 +771,6 @@ well, i started research on finding the roots of unity by connecting the complex
 
 **_log_**:
 
-**10th dec:** decided i would actually write the paper directly right after i understood what i needed to do. i got right in to it. i started with the introduction today and finished deriving the general formula. i also came up with some general trends that the formula followed and computed the roots of unity upto n = 7.
+**10th december:** decided i would actually write the paper directly right after i understood what i needed to do. i got right in to it. i started with the introduction today and finished deriving the general formula. i also came up with some general trends that the formula followed and computed the roots of unity upto n = 7.
 
-<br />**11th dec:** well its going really well. i finished the writing the first draft of the paper today. it was actually hard understanding some of the concepts today like discrete fourier systems and galois theory, but when i finally got my head around it, it wasn't hard to explain it in my terms. well, i'll show the first draft to the head of the mathematics deparment at my school, ms. sunita razdan, tomorrow. let's see what she says. finished the paper way faster than i thought i would, but there is still a long way to go.
+<br />**11th december:** well its going really well. i finished the writing the first draft of the paper today. it was actually hard understanding some of the concepts today like discrete fourier systems and galois theory, but when i finally got my head around it, it wasn't hard to explain it in my terms. well, i'll show the first draft to the head of the mathematics deparment at my school, ms. sunita razdan, tomorrow. let's see what she says. finished the paper way faster than i thought i would, but there is still a long way to go.
