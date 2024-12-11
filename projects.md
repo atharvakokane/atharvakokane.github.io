@@ -758,7 +758,7 @@ print(f"The string was found {x_occurrences} time(s) in the grid.")
 
 <br />either i am losing my mind or i am just actually stupid. i do not understand the day 5 puzzle. if someone actually understands the puzzle please do reach out.
 
-</br>**11th dec:** i have not touched another problem since the last time. i will get back to it i swear. i will try to solve as many puzzles as i can this year, but i know i won't get the entirety of the 50 stars.
+<br />**11th dec:** i have not touched another problem since the last time. i will get back to it i swear. i will try to solve as many puzzles as i can this year, but i know i won't get the entirety of the 50 stars.
 
 <a id="roots_of_unity"></a>
 
@@ -771,4 +771,4 @@ well, i started research on finding the roots of unity by connecting the complex
 
 **10th dec:** decided i would actually write the paper directly right after i understood what i needed to do. i got right in to it. i started with the introduction today and finished deriving the general formula. i also came up with some general trends that the formula followed and computed the roots of unity upto n = 7.
 
-</ br>**11th dec:** well its going really well. i finished the writing the first draft of the paper today. it was actually hard understanding some of the concepts today like discrete fourier systems and galois theory, but when i finally got my head around it, it wasn't hard to explain it in my terms. well, i'll show the first draft to the head of the mathematics deparment at my school, ms. sunita razdan, tomorrow. let's see what she says. finished the paper way faster than i thought i would, but there is still a long way to go.
+<br />**11th dec:** well its going really well. i finished the writing the first draft of the paper today. it was actually hard understanding some of the concepts today like discrete fourier systems and galois theory, but when i finally got my head around it, it wasn't hard to explain it in my terms. well, i'll show the first draft to the head of the mathematics deparment at my school, ms. sunita razdan, tomorrow. let's see what she says. finished the paper way faster than i thought i would, but there is still a long way to go.
