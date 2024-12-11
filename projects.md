@@ -12,6 +12,7 @@ permalink: /projects
 > - [ml research.](#ml_research)
 > - [leetcode.](#leetcode)
 > - [advent of code 2024.](#advent_of_code_2024)
+> - [roots of unity.](#roots_of_unity)
 
 <a id="ml_research"></a>
 
@@ -759,7 +760,7 @@ print(f"The string was found {x_occurrences} time(s) in the grid.")
 
 </br>**11th dec:** i have not touched another problem since the last time. i will get back to it i swear. i will try to solve as many puzzles as i can this year, but i know i won't get the entirety of the 50 stars.
 
-<a id="roots of unity"></a>
+<a id="roots_of_unity"></a>
 
 ## roots of unity.
 ---
