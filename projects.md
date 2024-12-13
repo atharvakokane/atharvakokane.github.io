@@ -767,7 +767,7 @@ print(f"The string was found {x_occurrences} time(s) in the grid.")
 ## roots of unity.
 ---
 
-well, i started research on finding the roots of unity by connecting the complex plane with the real plane using trigonometry. i want to publish this as soon as possible.
+well, i started writing a paper on finding the roots of unity by connecting the complex plane with the real plane using trigonometry. i want to publish as a review article this as soon as possible.
 
 **_log_**:
 
