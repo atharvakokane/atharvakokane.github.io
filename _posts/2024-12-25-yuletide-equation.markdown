@@ -13,3 +13,4 @@ _25th december, wednesday_
 
 happy holidays and merry christmas everyone. hope st. nicholas got you gift this year. well i browsing through my feed today and i came across this interesting equation, here it is:
 
+![Alt text](https://thenumerist.com/wp-content/uploads/sites/1058/2022/08/1.jpg)
