@@ -20,3 +20,6 @@ things i want to complete today:
  - atoms (with questions)
  - nuclei (with questions)
  - semiconductors (with questions)
+
+just done:
+ - atoms (with questions)
