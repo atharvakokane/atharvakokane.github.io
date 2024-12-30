@@ -21,5 +21,5 @@ things i want to complete today:
  - nuclei (with questions)
  - semiconductors (with questions)
 
-just done:
+<br />just done:
  - atoms (with questions)
