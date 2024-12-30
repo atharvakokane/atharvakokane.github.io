@@ -23,3 +23,4 @@ things i want to complete today:
 
 <br />just done:
  - atoms (with questions)
+ - nuclei (with questions)
