@@ -24,3 +24,15 @@ things i want to complete today:
 <br />just done:
  - atoms (with questions)
  - nuclei (with questions)
+
+## 1st january, wednesday
+
+---
+
+i didn't acutally set a goal for today, but i finished these topics:
+
+<br />just done:
+ - dual nature of radiation and matter (with questions)
+ - atoms (with questions)
+ - nuclei (with questions)
+ - semiconductor (with questions)
