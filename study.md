@@ -36,3 +36,13 @@ i didn't acutally set a goal for today, but i finished these topics:
  - atoms (with questions)
  - nuclei (with questions)
  - semiconductor (with questions)
+
+## 2nd january, thursday
+
+---
+
+things i want to complete today:
+ - magnetism and matter (with questions)
+ - electromagnetic induction (with questions)
+ - alternating current (with questions)
+ - electromagnetic waves (with questions)
