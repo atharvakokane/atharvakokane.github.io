@@ -59,7 +59,7 @@ things i want to complete today:
 
 i didn't acutally set a goal for today, but i finished these topics:
 
-<br />just done:
+just done:
  - electric fields and charges (with questions)
 
 <br />ik it isn't alot but i tried to finish as much as i could.
