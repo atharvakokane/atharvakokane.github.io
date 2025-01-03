@@ -46,3 +46,20 @@ things i want to complete today:
  - electromagnetic induction (with questions)
  - alternating current (with questions)
  - electromagnetic waves (with questions)
+
+<br />just done:
+ - magnetism and matter (with questions)
+ - electromagnetic induction (with questions)
+ - alternating current (with questions)
+ - electromagnetic waves (with questions)
+
+## 3rd january, friday
+
+---
+
+i didn't acutally set a goal for today, but i finished these topics:
+
+<br />just done:
+ - electric fields and charges (with questions)
+
+<br />ik it isn't alot but i tried to finish as much as i could.
