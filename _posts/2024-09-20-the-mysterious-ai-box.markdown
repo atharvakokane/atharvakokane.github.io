@@ -5,7 +5,7 @@ date:   2024-09-30 10:06 +0400
 categories:
 ---
 
-_30th september, monday_
+_30th september 2024, monday_
 
 # the mysterious ai box.
 ---
