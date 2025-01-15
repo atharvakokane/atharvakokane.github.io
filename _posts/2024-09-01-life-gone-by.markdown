@@ -4,7 +4,7 @@ title: "life gone by."
 date: 2024-09-01 09:06 +0400
 ---
 
-_1st september, sunday_
+_1st september 2024, sunday_
 
 # life gone by.
 
@@ -29,3 +29,5 @@ finally, after months of searching i landed an internship in dubai at vision con
 ---
 
 i also got into leetcode - competitive programming - but initially i wasn't really great at it. practiced it a bit but then i lost interest. maybe i will restart my leetcode journey soon.
+
+- ask.
