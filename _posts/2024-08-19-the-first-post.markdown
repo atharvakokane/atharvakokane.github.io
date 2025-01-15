@@ -5,7 +5,7 @@ date:   2024-08-18 11:58 +0400
 categories:
 ---
 
-_18th august, sunday_
+_18th august 2024, sunday_
 
 # the first post.
 
@@ -29,4 +29,8 @@ disclaimer: this is my definition of social constructionism for a more accurate 
 
 ## what is so interesting about it?
 
+---
+
 my theory behind why we study the science of social constructs starts from understanding humans. how do we understand humans? we understand them by understanding how they feel and their emotions. the same goes for communities and social classes; we understand them by understanding social constructs. that's my theory anyway.
+
+- ask.
