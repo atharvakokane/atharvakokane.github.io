@@ -9,8 +9,8 @@ permalink: /projects
 
 # annual portfolios.
 
-> - [2024.](#2024)
 > - [2025.](#2025)
+> - [2024.](#2024)
 
 <a id = "2025"></a>
 
