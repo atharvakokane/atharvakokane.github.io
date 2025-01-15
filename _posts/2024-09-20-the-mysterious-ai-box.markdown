@@ -23,4 +23,4 @@ exploring the field of explainable artificial intelligence (xai) offers a fascin
 
 xai aims to bridge this gap by developing methods and techniques that provide human-understandable explanations for ai decisions. this is particularly crucial in fields like healthcare, finance, and autonomous systems, where understanding the reasoning behind a model's output is essential for trust, accountability, and regulatory compliance. by diving deeper into xai, we can unlock models that not only perform accurately but also offer insight into how they function, allowing for more reliable deployment in high-stakes environments. as the field evolves, it holds the potential to revolutionize industries by enabling more ethical, transparent, and accessible ai technologies.
 
-- ask.
+-- ask.
