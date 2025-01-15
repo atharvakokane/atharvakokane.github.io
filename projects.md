@@ -16,6 +16,7 @@ permalink: /projects
 
 # 2025.
 ---
+---
 
 # ongoing projects.
 > - [roots of unity continued.](#roots_of_unity_continued)
@@ -32,6 +33,7 @@ well, i finished the paper. time to publish it.
 <a id = "2024"></a>
 
 # 2024.
+---
 ---
 
 # ongoing projects.
