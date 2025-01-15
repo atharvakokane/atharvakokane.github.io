@@ -28,7 +28,9 @@ permalink: /projects
 
 well, i finished the paper. time to publish it.
 
+**_log_**:
 
+**15th january:** i took the paper to my vice-principal and she loved it. she wants to get it published and put me in touch with a publisher as well. now i need to send the paper in for a screening and see what feedback i recieve. let's see what happens i guess.
 
 <a id = "2024"></a>
 
