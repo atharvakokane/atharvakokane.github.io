@@ -28,4 +28,4 @@ i am reading this book by r.f. kuang called babel which constitutes of this magi
 
 this is just the beginning to a maze of words and languages. if you haven't read babel, i highly recommend it, especially to anyone who loves to study etymology. you can find the book on goodreads [here](https://www.goodreads.com/book/show/57945316-babel).
 
-- ask.
+-- ask.
