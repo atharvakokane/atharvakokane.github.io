@@ -5,14 +5,44 @@ permalink: /projects
 ---
 
 # projects.
+---
 
+# annual portfolios.
+
+> - [2024.](#2024)
+> - [2025.](#2025)
+
+<a id = "2025"></a>
+
+# 2025.
+---
+
+# ongoing projects.
+> - [roots of unity continued.](#roots_of_unity_continued)
+
+<a id = "roots_of_unity_continued"></a>
+
+# roots of unity continued.
+---
+
+well, i finished the paper. time to publish it.
+
+
+
+<a id = "2024"></a>
+
+# 2024.
 ---
 
 # ongoing projects.
 > - [ml research.](#ml_research)
-> - [leetcode.](#leetcode)
-> - [advent of code 2024.](#advent_of_code_2024)
 > - [roots of unity.](#roots_of_unity)
+
+# completed projects.
+> - [advent of code 2024.](#advent_of_code_2024)
+
+# dormant projects.
+> - [leetcode.](#leetcode)
 
 <a id="ml_research"></a>
 
