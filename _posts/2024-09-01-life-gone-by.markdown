@@ -30,4 +30,4 @@ finally, after months of searching i landed an internship in dubai at vision con
 
 i also got into leetcode - competitive programming - but initially i wasn't really great at it. practiced it a bit but then i lost interest. maybe i will restart my leetcode journey soon.
 
-- ask.
+-- ask.
