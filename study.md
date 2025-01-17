@@ -63,3 +63,16 @@ just done:
  - electric fields and charges (with questions)
 
 <br />ik it isn't alot but i tried to finish as much as i could.
+
+## 18th january, friday
+
+---
+
+yes, i know. its been a while. well i am back to it. had practicals for a while.
+
+things i want to complete today:
+ - solutions
+ - electrochemistry
+
+<br />just done:
+ - tbc.
