@@ -796,6 +796,8 @@ print(f"The string was found {x_occurrences} time(s) in the grid.")
 
 <br />**11th december:** i have not touched another problem since the last time. i will get back to it i swear. i will try to solve as many puzzles as i can this year, but i know i won't get the entirety of the 50 stars.
 
+<br />i decided to leave this challenge behind and focus on more important goals this year. but know this, i have not forgotten this challenege and i will come back next year, smarter, wiser, and hopefully with practice.
+
 <a id="roots_of_unity"></a>
 
 ## roots of unity.
