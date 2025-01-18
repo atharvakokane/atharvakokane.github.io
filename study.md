@@ -75,4 +75,20 @@ things i want to complete today:
  - electrochemistry
 
 <br />just done:
+ - solutions (except numericals)
+
+ok now i feel cooked. lord... well, gotta finish a chunk tommrow then.
+
+## 19th january, saturday
+
+---
+
+today, is a grind day. i have to grind so hard, can't even go out today.
+
+things i want to complete today:
+ - electrochemistry
+ - chemical kinetics
+ - solutions (numericals)
+
+<br />just done:
  - tbc.
