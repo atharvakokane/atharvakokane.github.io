@@ -64,7 +64,7 @@ just done:
 
 <br />ik it isn't alot but i tried to finish as much as i could.
 
-## 18th january, friday
+## 18th january, saturday
 
 ---
 
@@ -79,7 +79,7 @@ things i want to complete today:
 
 ok now i feel cooked. lord... well, gotta finish a chunk tommrow then.
 
-## 19th january, saturday
+## 19th january, sunday
 
 ---
 
@@ -94,7 +94,7 @@ things i want to complete today:
  - electrochemistry (except batteries and electrolysis)
  - solutions
 
-## 20th january, sunday
+## 20th january, monday
 
 ---
 
