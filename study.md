@@ -93,3 +93,14 @@ things i want to complete today:
 <br />just done:
  - electrochemistry (except batteries and electrolysis)
  - solutions
+
+## 20th january, sunday
+
+---
+
+things i want to complete today:
+ - amines
+ - biomolecules
+
+<br />just done:
+ - tbc.
