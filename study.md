@@ -91,4 +91,5 @@ things i want to complete today:
  - solutions (numericals)
 
 <br />just done:
- - tbc.
+ - electrochemistry (except batteries and electrolysis)
+ - solutions
