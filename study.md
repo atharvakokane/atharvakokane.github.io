@@ -103,4 +103,14 @@ things i want to complete today:
  - biomolecules
 
 <br />just done:
- - tbc.
+ - amines
+ - biomolecules (only half done)
+
+## 21st january, tuesday
+
+---
+
+things i want to complete today:
+ - biomolecules
+ - haloalkanes and haloarenes
+ - alcohols, phenols and ethers
