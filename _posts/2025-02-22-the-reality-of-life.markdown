@@ -7,7 +7,7 @@ categories:
 
 _22th february 2025, saturday_
 
-# a peak into nolan.
+# the reality of life.
 
 ---
 
