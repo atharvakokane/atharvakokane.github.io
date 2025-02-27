@@ -20,6 +20,6 @@ i keep searching chat gpt for some project ideas, but even gpt can take me so fa
 
 hopefully something hits me soon enough. well, off to studying for the next board exam then. goodnight and sweet dreams.
 
-p.s. ok, i finally decided on a project. i am going to build tetris on pygame. yes i know it doesn't really help anyone and it's a pretty simple project, but my coding skills have been rusting for a while. time to refresh my memory for a bit. i will publish the final code on <a href = "https://github.com/atharvakokane" target = _blank>my github</a> when it's ready and i will also update my progress on the <a href = "https://atharvakokane.github.io/projects" target = _blank>projects tab</a> when i do start it (probably after my english board on the 11th of march).
+p.s. ok, i finally decided on a project. i am going to build tetris on <a href = "https://pypi.org/project/pygame/" target  = _blank>pygame</a>. yes i know it doesn't really help anyone and it's a pretty simple project, but my coding skills have been rusting for a while. time to refresh my memory for a bit. i will publish the final code on <a href = "https://github.com/atharvakokane" target = _blank>my github</a> when it's ready and i will also update my progress on the <a href = "https://atharvakokane.github.io/projects" target = _blank>projects tab</a> when i do start it (probably after my english board on the 11th of march).
 
 - ask.
