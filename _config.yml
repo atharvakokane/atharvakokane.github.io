@@ -16,8 +16,10 @@ style: dark
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
-
 kramdown:
-  input: GFM
   math_engine: mathjax
+  syntax_highlighter: rouge
+
+mathjax: true
+
+remote_theme: b2a3e8/jekyll-theme-console
