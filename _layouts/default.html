@@ -7,6 +7,18 @@
   {%- include head.html -%}
 
   <body>
+    
+    {% if page.mathjax %}
+    <script>
+    window.MathJax = {
+      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+      svg: { fontCache: 'global' }
+    };
+    </script>
+    <script type="text/javascript" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+    {% endif %}
+    
     <div class="container">
 
       {%- include header.html -%}
