@@ -2,6 +2,7 @@
 layout: page
 title: /research
 permalink: /research/
+mathjax: true
 ---
 
 # research.
