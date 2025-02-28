@@ -11,7 +11,7 @@ _01st march 2025, saturday_
 # latex?
 ---
 
-finally got the math equation formatting working on github pages. it took me literally hours to figure out what was wrong but it was just that i couldn't just import the library directly. i had to download the javascript file and add it as an asset file on the master node. crazy stuff but finally got it to work.
+always wanted to have discussions on mathematical concepts, but the formatting on my website is very minimal. i decided to do something to display math equations on github pages, and i finally got latex working on github pages. it took me literally hours to figure out what was wrong but it was just that i couldn't just import the library directly. i had to download the javascript file and add it as an asset file on the master node. crazy stuff but finally got it to work.
 
 to anyone who does not know what latex is, do not worry i did not know about 3 months ago either. latex is, as bates college puts it, a system for high-quality technical typesetting. essentially it makes your equations and text look cool by using a better font, like the one you see your physics professor writing in class.
 
