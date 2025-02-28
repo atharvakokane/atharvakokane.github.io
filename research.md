@@ -15,6 +15,6 @@ The roots of unity are complex numbers that satisfy the equation \(z^n = 1\), wh
 
 the final formula that was derived from the research is
 
-\[z = e^{\frac{2i\pi k}{n}} = \cos{\frac{2\pi k}{n}} + i\sin{\frac{2\pi k}{n}} \tag{*} \]
+\[z = e^{\frac{2i\pi k}{n}} = \cos{\frac{2\pi k}{n}} + i\sin{\frac{2\pi k}{n}}\]
 
 you can read the full paper <a href = "https://drive.google.com/file/d/1DpOfWxWJ6XS_zeuEGgMEgfXgQ_1xZ61b/view" target = _blank>here</a>.
