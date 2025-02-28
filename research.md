@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /resume
-permalink: /resume/
+title: /research
+permalink: /research/
 ---
 
 # research.
