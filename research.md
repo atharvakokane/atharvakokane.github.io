@@ -20,3 +20,5 @@ The study begins with a foundational understanding of the roots as the solutions
 Through both theoretical exploration and computational visualizations, this paper aims to deepen the understanding of the mathematical significance of the roots of unity and their widespread applications.
 
 you can read the full paper <a href = "https://drive.google.com/file/d/1DpOfWxWJ6XS_zeuEGgMEgfXgQ_1xZ61b/view" target = _blank>here</a>.
+
+- ask.
