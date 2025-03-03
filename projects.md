@@ -20,6 +20,7 @@ permalink: /projects
 
 # ongoing projects.
 > - [roots of unity continued.](#roots_of_unity_continued)
+> - [tetris.](#tetris)
 
 <a id = "roots_of_unity_continued"></a>
 
@@ -31,6 +32,49 @@ well, i finished the paper. time to publish it.
 **_log_**:
 
 **15th january:** i took the paper to my vice-principal and she loved it. she wants to get it published and put me in touch with a publisher as well. now i need to send the paper in for a screening and see what feedback i recieve. let's see what happens i guess.
+
+<a id = "tetris"></a>
+
+# tetris.
+---
+
+well i wanted to really code something in the middle of my final exams and i thought what better than tetris. a game i played almost everyday to beat boredom and a game that was created by so many game developers in their own version because it has the most basic building blocks. and so i built it. also i was following a tutorial while building it. the link to the tutorial is <a href = "https://www.youtube.com/watch?v=JkjiFPNH0Ng" target = _blank>here</a>.
+
+**_log_**:
+
+**1st march:** started coding and learning a new library in python called pygame and built the absolute basics of the game layout. some of it i could mention below.
+
+{% highlight python %}
+import pygame
+import random
+import sys
+
+pygame.init()
+
+WIDTH, HEIGHT = 300, 500
+FPS = 35
+
+CELL = 20
+ROWS = (HEIGHT - 120) // CELL
+COLS = WIDTH // CELL
+
+SCREEN = pygame.display.set_mode((WIDTH, HEIGHT), pygame.NOFRAME)
+CLOCK = pygame.time.Clock()
+pygame.display.set_caption("Tetris")
+
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+BG_COLOR = (31, 25, 76)
+GRID = (31, 25, 132)
+WIN = (50, 230, 50)
+LOSE = (252, 91, 122)
+{% endhighlight %}
+
+**2nd march:** finally gaining pace in the process. this library is interesting. i am mostly using normal python commands but also learning color theory and how to measure pixels and placement and padding based on that.
+
+**3rd march:** i think i will finish the project tomorrow. i finished a chunk of the work today. just to refine the details tomorrow.
+
+**4th march:** i'm done. i finished the game and it looks amazing. i know i am going to build another game after my finals. it's probably going to be galaga. hmm, might be tricky. i published it <a href = "https://github.com/atharvakokane/tetris" target = _blank>here</a> on my github.
 
 <a id = "2024"></a>
 
