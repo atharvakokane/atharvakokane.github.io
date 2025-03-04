@@ -33,6 +33,8 @@ well, i finished the paper. time to publish it.
 
 **15th january:** i took the paper to my vice-principal and she loved it. she wants to get it published and put me in touch with a publisher as well. now i need to send the paper in for a screening and see what feedback i recieve. let's see what happens i guess.
 
+**16th january:** decided to stop going after publishers to only result in them asking me for a fee. instead i published it on my website <a href = "https://atharvakokane.github.io/research/" target = _blank>here</a>. please to give it a look and if you have any feedback or insights i would love to discuss with you. you can contact me through the contact tab <a href = "https://atharvakokane.github.io/contact" target = _blank>here</a>.
+
 <a id = "tetris"></a>
 
 # tetris.
