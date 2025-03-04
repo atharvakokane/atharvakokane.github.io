@@ -19,8 +19,10 @@ permalink: /projects
 ---
 
 # ongoing projects.
-> - [roots of unity continued.](#roots_of_unity_continued)
 > - [tetris.](#tetris)
+
+# completed projects.
+> - [roots of unity continued.](#roots_of_unity_continued)
 
 <a id = "roots_of_unity_continued"></a>
 
