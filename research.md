@@ -6,10 +6,12 @@ mathjax: true
 ---
 
 # research.
+---
 
 below are the research papers that i have written in the past. hope it's helpful to fellow researchers. also, if you want to reference my work, please do contact me through the <a href = "https://atharvakokane.github.io/contact" target = _blank>contact</a> tab.
 
 ## investigating the roots of unity.
+---
 
 The roots of unity are complex numbers that satisfy the equation \\(z^n = 1\\), where n is a positive integer. This paper delves into the intricacies of the Euler’s Formula and also deriving it from Taylor’s expansion of trigonometric functions. 
 
