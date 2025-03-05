@@ -12,5 +12,5 @@ _01st march 2025, saturday_
 ---
 
 
-https://github.com/user-attachments/assets/d9d6fde5-6b3b-46f6-8e4d-7471a4ad61c6
+<video src = "https://github.com/user-attachments/assets/d9d6fde5-6b3b-46f6-8e4d-7471a4ad61c6" controls="controls" style="max-width: 730px;">
 
