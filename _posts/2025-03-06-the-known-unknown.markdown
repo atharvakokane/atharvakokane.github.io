@@ -6,7 +6,7 @@ categories:
 mathjax: true
 ---
 
-_03rd march 2025, thursday_
+_3rd march 2025, thursday_
 
 # the known unknown.
 ---
