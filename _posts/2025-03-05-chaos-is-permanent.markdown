@@ -11,4 +11,4 @@ _01st march 2025, saturday_
 # chaos is permanent.
 ---
 
-<video src = ""
+<video src = "assets/chaos_theory.mp4"></video>
