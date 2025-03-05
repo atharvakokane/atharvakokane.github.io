@@ -11,5 +11,4 @@ _01st march 2025, saturday_
 # chaos is permanent.
 ---
 
-
-[![chaos theory.](https://img.youtube.com/vi/ejewiHuQQN8/0.jpg)](https://www.youtube.com/watch?v=ejewiHuQQN8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ejewiHuQQN8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
