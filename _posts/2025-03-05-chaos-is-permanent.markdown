@@ -12,5 +12,5 @@ _01st march 2025, saturday_
 ---
 
 
-<video src = "https://github.com/atharvakokane/atharvakokane.github.io/blob/69268c0e9dcadd6792bcb491fbae2efc353da067/assets/chaos_theory.mp4" controls="controls" style="max-width: 730px;">
+<video src = "" controls="controls" style="max-width: 730px;">
 
