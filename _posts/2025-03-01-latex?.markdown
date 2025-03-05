@@ -6,7 +6,7 @@ categories:
 mathjax: true
 ---
 
-_01st march 2025, saturday_
+_1st march 2025, saturday_
 
 # latex?
 ---
