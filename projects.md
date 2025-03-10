@@ -2,6 +2,7 @@
 title: /projects
 layout: projects
 permalink: /projects
+mathjax: true
 ---
 
 # projects.
@@ -19,10 +20,24 @@ permalink: /projects
 ---
 
 # ongoing projects.
-> - [tetris.](#tetris)
+> - [strange attractors.](#strange_attractors)
 
 # completed projects.
 > - [roots of unity continued.](#roots_of_unity_continued)
+> - [tetris.](#tetris)
+
+<a id = "strange_attractors"></a>
+
+# strange attractors.
+---
+
+recently got really interested into chaos theory. yes, i might've gotten interested through that one scene in jurassic park, but that's not the point. i tried graphing out some strange attractors to resemble chaotic behaviour. might write a paper on it later. also, just some basic info on attractors, it is a set of 3 differential equations that dictate the position of a particle on a graph. these differential equations when plotted across a time difference essentially generates a graph that never instersects in a deterministic system. this graph exhibits chaotic behaviour.
+
+**_log_**:
+
+**3rd march:** got into another branch of mathematics and blogged about coding the lorenz attractor in processing in java. you can read the full blog <a href = "https://atharvakokane.github.io/2025/03/05/the-known-unknown.html" target = _blank>here</a>.
+
+**8th march:** i got really invested and started researching on other strange attractors. i coded them using the same program and now i think i should just make a function for it. i made a github repository for this project so, you can see the code for the other attractors <a href = "https://github.com/atharvakokane/strange-attractors" target = _blank>here</a>.
 
 <a id = "roots_of_unity_continued"></a>
 
@@ -35,7 +50,7 @@ well, i finished the paper. time to publish it.
 
 **15th january:** i took the paper to my vice-principal and she loved it. she wants to get it published and put me in touch with a publisher as well. now i need to send the paper in for a screening and see what feedback i recieve. let's see what happens i guess.
 
-**16th january:** decided to stop going after publishers to only result in them asking me for a fee. instead i published it on my website <a href = "https://atharvakokane.github.io/research/" target = _blank>here</a>. please to give it a look and if you have any feedback or insights i would love to discuss with you. you can contact me through the contact tab <a href = "https://atharvakokane.github.io/contact" target = _blank>here</a>.
+<br />**16th january:** decided to stop going after publishers to only result in them asking me for a fee. instead i published it on my website <a href = "https://atharvakokane.github.io/research/" target = _blank>here</a>. please to give it a look and if you have any feedback or insights i would love to discuss with you. you can contact me through the contact tab <a href = "https://atharvakokane.github.io/contact" target = _blank>here</a>.
 
 <a id = "tetris"></a>
 
@@ -74,11 +89,11 @@ WIN = (50, 230, 50)
 LOSE = (252, 91, 122)
 {% endhighlight %}
 
-**2nd march:** finally gaining pace in the process. this library is interesting. i am mostly using normal python commands but also learning color theory and how to measure pixels and placement and padding based on that.
+<br />**2nd march:** finally gaining pace in the process. this library is interesting. i am mostly using normal python commands but also learning color theory and how to measure pixels and placement and padding based on that.
 
-**3rd march:** i think i will finish the project tomorrow. i finished a chunk of the work today. just to refine the details tomorrow.
+<br />**3rd march:** i think i will finish the project tomorrow. i finished a chunk of the work today. just to refine the details tomorrow.
 
-**4th march:** i'm done. i finished the game and it looks amazing. i know i am going to build another game after my finals. it's probably going to be galaga. hmm, might be tricky. i published it <a href = "https://github.com/atharvakokane/tetris" target = _blank>here</a> on my github.
+<br />**4th march:** i'm done. i finished the game and it looks amazing. i know i am going to build another game after my finals. it's probably going to be galaga. hmm, might be tricky. i published it <a href = "https://github.com/atharvakokane/tetris" target = _blank>here</a> on my github.
 
 <a id = "2024"></a>
 
