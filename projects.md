@@ -37,7 +37,7 @@ recently got really interested into chaos theory. yes, i might've gotten interes
 
 **3rd march:** got into another branch of mathematics and blogged about coding the lorenz attractor in processing in java. you can read the full blog <a href = "https://atharvakokane.github.io/2025/03/05/the-known-unknown.html" target = _blank>here</a>.
 
-**8th march:** i got really invested and started researching on other strange attractors. i coded them using the same program and now i think i should just make a function for it. i made a github repository for this project so, you can see the code for the other attractors <a href = "https://github.com/atharvakokane/strange-attractors" target = _blank>here</a>.
+<br />**8th march:** i got really invested and started researching on other strange attractors. i coded them using the same program and now i think i should just make a function for it. i made a github repository for this project so, you can see the code for the other attractors <a href = "https://github.com/atharvakokane/strange-attractors" target = _blank>here</a>.
 
 <a id = "roots_of_unity_continued"></a>
 
