@@ -23,6 +23,7 @@ mathjax: true
 > - [strange attractors.](#strange_attractors)
 
 # completed projects.
+> - [javascript course](#javascript_course)
 > - [roots of unity continued.](#roots_of_unity_continued)
 > - [tetris.](#tetris)
 
@@ -38,6 +39,13 @@ recently got really interested into chaos theory. yes, i might've gotten interes
 **3rd march:** got into another branch of mathematics and blogged about coding the lorenz attractor in processing in java. you can read the full blog <a href = "https://atharvakokane.github.io/2025/03/05/the-known-unknown.html" target = _blank>here</a>.
 
 <br />**8th march:** i got really invested and started researching on other strange attractors. i coded them using the same program and now i think i should just make a function for it. i made a github repository for this project so, you can see the code for the other attractors <a href = "https://github.com/atharvakokane/strange-attractors" target = _blank>here</a>.
+
+<a id = "javascript_course"></a>
+
+# javascript course.
+---
+
+decided to learn a new language today. literally just watched like an hour video course on youtube and learnt most of the basics of the language. yes, i learnt javascript. finally right? i also did finish the freecodecamp course on javascript by using some help for the regex code and for understanding how american currency works. i have no idea what dimes and pennies are. <a href = "https://www.freecodecamp.org/certification/fcc6f0a00fc-c78c-444a-a844-ba13012cfa5d/javascript-algorithms-and-data-structures" target = _blank>here</a> is the certification.
 
 <a id = "roots_of_unity_continued"></a>
 
