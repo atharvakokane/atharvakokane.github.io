@@ -40,6 +40,20 @@ recently got really interested into chaos theory. yes, i might've gotten interes
 
 <br />**8th march:** i got really invested and started researching on other strange attractors. i coded them using the same program and now i think i should just make a function for it. i made a github repository for this project so, you can see the code for the other attractors <a href = "https://github.com/atharvakokane/strange-attractors" target = _blank>here</a>.
 
+<br />**13th march:** i can finally focus on this project. my final exams just got over. well iu did continue researching on this topic a little bit longer, but then got distracted by other mathematical concepts like the mandelbrot set and the perlin noise-based flow field. i transformed by strange attractors repository to a full <a href = "https://github.com/atharvakokane/math-visualizations" target = _blank>math visualizations repository</a>. well i used a couple of new equations that i came across like these.
+
+\\[x = \sin(i) \cdot \left( \exp(\cos(i)) - 2 \cdot \cos(4i) - \left( \sin\left(\frac{i}{12}\right) \right)^5 \right)\\]
+
+\\[y = \cos(i) \cdot \left( \exp(\cos(i)) - 2 \cdot \cos(4i) - \left( \sin\left(\frac{i}{12}\right) \right)^5 \right)\\]
+
+very specific functions, but they trace out a beautiful butterfly, based on the mandelbrot set. then i came across these, for the perlin flow field.
+
+\\[\mathbf{v}(x, y) = \left( \frac{\partial}{\partial x} \text{PerlinNoise}(x, y), \frac{\partial}{\partial y} \text{PerlinNoise}(x, y) \right)\\]
+
+\\[\mathbf{v}(x, y) = \left( \cos(\text{PerlinNoise}(x, y)), \sin(\text{PerlinNoise}(x, y)) \right)\\]
+
+\\[\mathbf{p}(t+1) = \mathbf{p}(t) + \mathbf{v}(x, y) \cdot \Delta t\\]
+
 <a id = "javascript_course"></a>
 
 # javascript course.
