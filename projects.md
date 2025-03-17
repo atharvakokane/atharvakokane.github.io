@@ -60,7 +60,7 @@ very specific functions, but they trace out a beautiful butterfly, based on the 
 # uae innovaite 2025
 ---
 
-invited last miniute by arshia chandragiri to join a team for the uae innovaite hackathon with mritunjay mukherjee and reva katyal.
+invited last miniute by arshia chandragiri to join a team for the uae innovaite hackathon with mritunjay mukherjee and reva katyal. our group github is <a href = "https://github.com/atharvakokane/UAE-InnovAIte-2025" target = _blank>here</a> if you want to have a look at our final website.
 
 **_log_**:
 
