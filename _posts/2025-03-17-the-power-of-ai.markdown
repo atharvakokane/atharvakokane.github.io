@@ -30,7 +30,8 @@ def image_to_ascii(image_path, width=100):
     pixels = np.array(image)
 
     scale_factor = 255 / (len(ASCII_CHARS) - 1)
-    ascii_art = "\n".join("".join(ASCII_CHARS[min(int(pixel / scale_factor), len(ASCII_CHARS) - 1)] for pixel in row) for row in pixels)
+    ascii_art = "\n".join("".join(ASCII_CHARS[min(int(pixel / scale_factor), 
+    len(ASCII_CHARS) - 1)] for pixel in row) for row in pixels)
     
     return ascii_art
 
