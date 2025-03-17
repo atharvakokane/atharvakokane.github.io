@@ -23,6 +23,7 @@ mathjax: true
 > - [strange attractors.](#strange_attractors)
 
 # completed projects.
+> - [uae innovaite 2025](#uae_innovaite_2025)
 > - [javascript course](#javascript_course)
 > - [roots of unity continued.](#roots_of_unity_continued)
 > - [tetris.](#tetris)
@@ -53,6 +54,21 @@ very specific functions, but they trace out a beautiful butterfly, based on the 
 \\[\mathbf{v}(x, y) = \left( \cos(\text{PerlinNoise}(x, y)), \sin(\text{PerlinNoise}(x, y)) \right)\\]
 
 \\[\mathbf{p}(t+1) = \mathbf{p}(t) + \mathbf{v}(x, y) \cdot \Delta t\\]
+
+<a id = "#uae_innovaite_2025"></a>
+
+# uae innovaite 2025
+---
+
+invited last miniute by arshia chandragiri to join a team for the uae innovaite hackathon with mritunjay mukherjee and reva katyal.
+
+**_log_**:
+
+**14th march:** first day of the hackathon. good opening ceremony, really scared, but let's see what happens.
+
+<br />**15th march:** second day coding for the hackathon and the panic is starting to set in. i have never coded a full web application in 2 days and integration of 5 different languages together almost seems impossible. well, atleast we have a cool ai model. credits to mritunjay mukherjee on building the entire thing from scratch.
+
+<br />**16th march:** today was demo day. we made it to the finals with the top 12 teams competing. unfortunately, we did not make podium. next hackathon, we definately win though. just need to find the next one now.
 
 <a id = "javascript_course"></a>
 
