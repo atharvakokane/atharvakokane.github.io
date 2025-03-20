@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "i give up."
-date:   2025-03-21 03:07 +0400
+date:   2025-03-21 02:07 +0400
 categories:
 mathjax: false
 ---
