@@ -13,6 +13,9 @@ header_pages:
 
 style: dark
 
+plugins:
+  - jekyll-remote-theme
+
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 markdown: kramdown
