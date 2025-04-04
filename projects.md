@@ -20,6 +20,7 @@ mathjax: true
 ---
 
 # ongoing projects.
+> - [memorease.](#memorease)
 > - [strange attractors.](#strange_attractors)
 
 # completed projects.
@@ -27,6 +28,16 @@ mathjax: true
 > - [javascript course](#javascript_course)
 > - [roots of unity continued.](#roots_of_unity_continued)
 > - [tetris.](#tetris)
+
+<a id = "memorease"></a>
+
+# memorease.
+---
+i got invited by a friend, jessica d'silva to be the ai developer for her team that is building a product for a competition coming up to take of the burden of memory loss. i gladly agreed.
+
+**_log_**:
+
+**4th march:** jessica finally got the green flag to include me in the team from her professor and her teammates. i completed phase one of the model which was the classification phase. this part helps the system classify text inputted by the user into statements and queries. i also made it such that the statements can be stored in a text file, but this will change later to a proper database using django. the second phase is actually answering queries using lm studio. also i have no idea how this software works so please reach out if you do know how it does work.
 
 <a id = "strange_attractors"></a>
 
