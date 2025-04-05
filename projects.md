@@ -39,6 +39,8 @@ i got invited by a friend, jessica d'silva to be the ai developer for her team t
 
 **4th march:** jessica finally got the green flag to include me in the team from her professor and her teammates. i completed phase one of the model which was the classification phase. this part helps the system classify text inputted by the user into statements and queries. i also made it such that the statements can be stored in a text file, but this will change later to a proper database using django. the second phase is actually answering queries using lm studio. also i have no idea how this software works so please reach out if you do know how it does work.
 
+<br />**5th march:** finished building the ai. now i kinda am worried on how to integrate this into the app when we finally do the integration. i updated tthe saving into a database but it is using sqlite3 instead. i also used ollama to answer queries using a gemma3 llm. i'm heading to bed now, its 4 am. i need to get a life.
+
 <a id = "strange_attractors"></a>
 
 # strange attractors.
