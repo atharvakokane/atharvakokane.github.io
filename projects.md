@@ -41,6 +41,8 @@ i got invited by a friend, jessica d'silva to be the ai developer for her team t
 
 <br />**5th march:** finished building the ai. now i kinda am worried on how to integrate this into the app when we finally do the integration. i updated tthe saving into a database but it is using sqlite3 instead. i also used ollama to answer queries using a gemma3 llm. i'm heading to bed now, its 4 am. i need to get a life.
 
+<br />**9th march:** i realized that the most annoying python library is speech recognition. spent 2 hours today figuring out how to get one simple input. but, yea need to improve the voice recognition on the model. will probably work on it tomorrow.
+
 <a id = "strange_attractors"></a>
 
 # strange attractors.
