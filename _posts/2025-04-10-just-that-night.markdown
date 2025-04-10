@@ -24,3 +24,9 @@ need to learn how firebase works to set up a database to store user entries. app
 
 **00:15**
 so, i forgot that i need to make a new email to make this happen. time to make this happen. prolly will use my other dummy emails. plus i don't know why the script doesn't work. i might do it on visual studio code before importing it to a github.
+
+**00:34**
+it's up. i'll share it to a few people. let's see what happens.
+
+- ask.
+its
