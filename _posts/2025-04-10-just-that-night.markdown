@@ -31,4 +31,9 @@ it's up. i'll share it to a few people. let's see what happens.
 **1:11**
 it happened. it went live. i sent it to 4 people and got two alerts on how i could get caught. so i decided to publicize it after i finish all my procedures in school. also i want to use the same concept for a senior thing. let's see how this will work. i want to you use the same wall concept for like... you know those "advice from seniors" boards. yea that. well let's try something. also i am only taking input through a google forms.
 
+**1:43**
+so, made the website but can't decide on a css styling on it. ai is useless when it comes to creativity. might not continue this project. it got boring. let's see where the previous project leads though. i can only make it public after i complete school.
+
+today was a weird day.
+
 - ask.
