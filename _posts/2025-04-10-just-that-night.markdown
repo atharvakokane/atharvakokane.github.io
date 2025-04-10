@@ -28,5 +28,7 @@ so, i forgot that i need to make a new email to make this happen. time to make t
 **00:34**
 it's up. i'll share it to a few people. let's see what happens.
 
+**1:11**
+it happened. it went live. i sent it to 4 people and got two alerts on how i could get caught. so i decided to publicize it after i finish all my procedures in school. also i want to use the same concept for a senior thing. let's see how this will work. i want to you use the same wall concept for like... you know those "advice from seniors" boards. yea that. well let's try something. also i am only taking input through a google forms.
+
 - ask.
-its
