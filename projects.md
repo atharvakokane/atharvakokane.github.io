@@ -43,6 +43,8 @@ i got invited by a friend, jessica d'silva to be the ai developer for her team t
 
 <br />**9th march:** i realized that the most annoying python library is speech recognition. spent 2 hours today figuring out how to get one simple input. but, yea need to improve the voice recognition on the model. will probably work on it tomorrow.
 
+<br />**16th march:** it's been a week since i have worked on this project. apparently they haven't finished the design for the app and hence i can't continue with the design on the app (also i have no clue on how to build an app.) this will be good... yea i need to learn flutter desperately.
+
 <a id = "strange_attractors"></a>
 
 # strange attractors.
