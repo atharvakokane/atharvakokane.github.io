@@ -42,11 +42,11 @@ i decided to finally get started on a short film project. been a dream since chi
 
 **20th april**: got started on the screenplay, hopefully we finish it in 2 days.
 
-**22nd april**: we started with casting, and finding a set. let's see what happens.
+<br />**22nd april**: we started with casting, and finding a set. let's see what happens.
 
-**29th april**: finally got the whole team on a group chat and the set is at kartikeya jarawat's house. thank you parri unadkhat for the casting. literally a life saver.
+<br />**29th april**: finally got the whole team on a group chat and the set is at kartikeya jarawat's house. thank you parri unadkhat for the casting. literally a life saver.
 
-**2nd may**: finished shooting! i am so excited for post production. (me and varun shivlani are going to be so mad on the days of post production, lmao.)
+<br />**2nd may**: finished shooting! i am so excited for post production. (me and varun shivlani are going to be so mad on the days of post production, lmao.)
 
 <a id = "memorease"></a>
 
