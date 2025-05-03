@@ -20,14 +20,33 @@ mathjax: true
 ---
 
 # ongoing projects.
+> - [our little cave.](#our_little_cave)
 > - [memorease.](#memorease)
-> - [strange attractors.](#strange_attractors)
 
 # completed projects.
 > - [uae innovaite 2025](#uae_innovaite_2025)
 > - [javascript course](#javascript_course)
 > - [roots of unity continued.](#roots_of_unity_continued)
 > - [tetris.](#tetris)
+
+# dormant projects.
+> - [strange attractors.](#strange_attractors)
+
+<a id = "our_little_cave"></a>
+
+# our little cave.
+---
+i decided to finally get started on a short film project. been a dream since childhood. also got some advice from zayan khan on it.
+
+**_log_**:
+
+**20th april**: got started on the screenplay, hopefully we finish it in 2 days.
+
+**22nd april**: we started with casting, and finding a set. let's see what happens.
+
+**29th april**: finally got the whole team on a group chat and the set is at kartikeya jarawat's house. thank you parri unadkhat for the casting. literally a life saver.
+
+**2nd may**: finished shooting! i am so excited for post production. (me and varun shivlani are going to be so mad on the days of post production, lmao.)
 
 <a id = "memorease"></a>
 
@@ -59,6 +78,8 @@ recently got really interested into chaos theory. yes, i might've gotten interes
 <br />**8th march:** i got really invested and started researching on other strange attractors. i coded them using the same program and now i think i should just make a function for it. i made a github repository for this project so, you can see the code for the other attractors <a href = "https://github.com/atharvakokane/strange-attractors" target = _blank>here</a>.
 
 <br />**13th march:** i can finally focus on this project. my final exams just got over. well iu did continue researching on this topic a little bit longer, but then got distracted by other mathematical concepts like the mandelbrot set and the perlin noise-based flow field. i transformed by strange attractors repository to a full <a href = "https://github.com/atharvakokane/math-visualizations" target = _blank>math visualizations repository</a>. well i used a couple of new equations that i came across like these.
+
+<br />**4th may:** decided to make this project dormant. we will revist this on a later date.
 
 \\[x = \sin(i) \cdot \left( \exp(\cos(i)) - 2 \cdot \cos(4i) - \left( \sin\left(\frac{i}{12}\right) \right)^5 \right)\\]
 
