@@ -20,10 +20,11 @@ mathjax: true
 ---
 
 # ongoing projects.
+> - [amitydxb mun 2025.](#amitydxb_mun_2025)
 > - [our little cave.](#our_little_cave)
-> - [memorease.](#memorease)
 
 # completed projects.
+> - [memorease.](#memorease)
 > - [uae innovaite 2025](#uae_innovaite_2025)
 > - [javascript course](#javascript_course)
 > - [roots of unity continued.](#roots_of_unity_continued)
@@ -31,6 +32,16 @@ mathjax: true
 
 # dormant projects.
 > - [strange attractors.](#strange_attractors)
+
+<a id = "amitydxb_mun_2025"></a>
+
+# amitydxb mun 2025.
+---
+so, amity university dubai is hosting their mun this year on the 9th, 10th and 11th of may and i am selected to chair it. thank you to rahul sunil and yogesh damodhar for giving me this opportunity.
+
+**_log_**:
+
+**8th may**: extremely excited for tomorrow. hopefully got everything in my bag. (forgot to pack props.)
 
 <a id = "our_little_cave"></a>
 
@@ -40,13 +51,15 @@ i decided to finally get started on a short film project. been a dream since chi
 
 **_log_**:
 
-**20th april**: got started on the screenplay, hopefully we finish it in 2 days.
+**20th april:** got started on the screenplay, hopefully we finish it in 2 days.
 
-<br />**22nd april**: we started with casting, and finding a set. let's see what happens.
+<br />**22nd april:** we started with casting, and finding a set. let's see what happens.
 
-<br />**29th april**: finally got the whole team on a group chat and the set is at kartikeya jarawat's house. thank you parri unadkhat for the casting. literally a life saver.
+<br />**29th april:** finally got the whole team on a group chat and the set is at kartikeya jarawat's house. thank you parri unadkhat for the casting. literally a life saver.
 
-<br />**2nd may**: finished shooting! i am so excited for post production. (me and varun shivlani are going to be so mad on the days of post production, lmao.)
+<br />**2nd may:** finished shooting! i am so excited for post production. (me and varun shivlani are going to be so mad on the days of post production, lmao.)
+
+<br />**8th may:** what an idiot i was. i thought the film would premiere today. well, we are still in post production and we realized that the audio quality of the mics were aweful. note to self, next time check the mics. also, we are re-recording a monologue for the film. hopefully it works out, but if it doesn't, oh well.
 
 <a id = "memorease"></a>
 
@@ -63,6 +76,8 @@ i got invited by a friend, jessica d'silva to be the ai developer for her team t
 <br />**9th march:** i realized that the most annoying python library is speech recognition. spent 2 hours today figuring out how to get one simple input. but, yea need to improve the voice recognition on the model. will probably work on it tomorrow.
 
 <br />**16th march:** it's been a week since i have worked on this project. apparently they haven't finished the design for the app and hence i can't continue with the design on the app (also i have no clue on how to build an app.) this will be good... yea i need to learn flutter desperately.
+
+<br />**7th may:** got to know that they did not use my ai in the final product and they didn't even go ahead with the initial plan. maybe next time. you can find the python file for the ai <a href = "https://github.com/atharvakokane/MemorEase" target = blank>here</a>.
 
 <a id = "strange_attractors"></a>
 
