@@ -20,10 +20,9 @@ mathjax: true
 ---
 
 # ongoing projects.
-> - [amitydxb mun 2025.](#amitydxb_mun_2025)
-> - [our little cave.](#our_little_cave)
 
 # completed projects.
+> - [amitydxb mun 2025.](#amitydxb_mun_2025)
 > - [memorease.](#memorease)
 > - [uae innovaite 2025](#uae_innovaite_2025)
 > - [javascript course](#javascript_course)
@@ -31,6 +30,7 @@ mathjax: true
 > - [tetris.](#tetris)
 
 # dormant projects.
+> - [our little cave.](#our_little_cave)
 > - [strange attractors.](#strange_attractors)
 
 <a id = "amitydxb_mun_2025"></a>
@@ -42,6 +42,12 @@ so, amity university dubai is hosting their mun this year on the 9th, 10th and 1
 **_log_**:
 
 **8th may**: extremely excited for tomorrow. hopefully got everything in my bag. (forgot to pack props.)
+
+<br />**9th may**: did not expect this for the first day. one of the greatest committees that i have entered on the first day. my co-chair is absolutely amazing as well. a little slow today with the psls, but we will pick it up tomorrow.
+
+<br />**10th may**: absolute amazing day. this has to be the top 3 muns i have ever been to. i hope my delegates are having fun, but its been absolute great. with 5 updates done and the socials today, we are in for a treat tomorrow.
+
+<br />**11th may**: receieved amazing feedback. i will miss amitydxbmun. thank you güney kaya, rahul sunil. keerthana gaddam and yogesh damodhar for making this weekend of mine memorable.
 
 <a id = "our_little_cave"></a>
 
@@ -60,6 +66,8 @@ i decided to finally get started on a short film project. been a dream since chi
 <br />**2nd may:** finished shooting! i am so excited for post production. (me and varun shivlani are going to be so mad on the days of post production, lmao.)
 
 <br />**8th may:** what an idiot i was. i thought the film would premiere today. well, we are still in post production and we realized that the audio quality of the mics were aweful. note to self, next time check the mics. also, we are re-recording a monologue for the film. hopefully it works out, but if it doesn't, oh well.
+
+<br />**13th may**: we scrapped it. screw it, go next. thank you to zayan khan for giving me the confidence to continue film making.
 
 <a id = "memorease"></a>
 
