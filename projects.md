@@ -21,6 +21,8 @@ mathjax: true
 
 # ongoing projects.
 
+> - [enter short film name here.](#short_film)
+
 # completed projects.
 > - [amitydxb mun 2025.](#amitydxb_mun_2025)
 > - [memorease.](#memorease)
@@ -32,6 +34,16 @@ mathjax: true
 # dormant projects.
 > - [our little cave.](#our_little_cave)
 > - [strange attractors.](#strange_attractors)
+
+<a id = "short_film"></a>
+
+# enter short film name here.
+---
+so yes, i'm filming another one. we haven't really decided on a name yet. but, i really want to thank zayan khan to get me back in the game. we will see you soon hopefully.
+
+**_log_**:
+
+**22nd may**: wrote a draft idea down. let's see where it heads. sent it to zayan khan, let's wait for some feedback.
 
 <a id = "amitydxb_mun_2025"></a>
 
