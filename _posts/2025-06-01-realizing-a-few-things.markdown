@@ -19,6 +19,8 @@ the concept of misinformation is a powerful one. if used properly can cripple th
 
 funny thing is the man in power knows he is wrong, but as long as he can keep his confidence up, he will get whatever he wants. i never fought fire with fire and now its bit me in the ass. maybe i should take a course on politics... might help.
 
- ps. i will come back to this later.
+this world was never made for good. people spreading hate and lying to people go the farthest. you will always feel a need to stop them or fix them. never do it, and never be too nice. i've tried it and it bites your ass.
+
+p.s. i hate you skpm, pv, ns, baj, bj, mv and ln but one day it'll bite y'all asses as well.
 
 - ask.
