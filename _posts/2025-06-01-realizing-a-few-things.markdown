@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "realizing a few things."
-date:   2025-06-01 06:13 +0400
+date:   2025-06-01 04:13 +0400
 categories:
 mathjax: false
 ---
