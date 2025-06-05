@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "purpose."
-date:   2025-06-05 21:20 +0400
+date:   2025-06-05 20:20 +0400
 categories:
 mathjax: false
 ---
