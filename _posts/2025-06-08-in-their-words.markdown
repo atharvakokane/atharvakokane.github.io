@@ -61,4 +61,6 @@ but in soul, in name
 the boy who walked in
 never left the same.
 
+i miss you tb, kj and hs.
+
 - ask.
