@@ -34,3 +34,11 @@ and the equation binds them together in perfect coexistence. and how the equatio
 \\[\cos{x} = \sum_{n=0}^{\infty} \frac{(-1)^{n} x^{2n}}{(2n)!}\\]
 
 \\[\sin{x} = \sum_{n=0}^{\infty} \frac{(-1)^{n} x^{2n + 1}}{(2n + 1)!}\\]
+
+now substitute \\(ix\\) into the exponential series.
+
+\\[e^{ix} = \sum_{n=0}{\infty} \frac{(ix)^n}{n!}\\]
+
+if we split the above equation into odd and even powers.
+
+\\[e^{ix} = \sum_{n=0}{\infty} \frac{(ix)^{2n}}{(2n)!} + \sum_{n=0}{\infty} \frac{(ix)^{2n + 1}}{(2n + 1)!}\\]
