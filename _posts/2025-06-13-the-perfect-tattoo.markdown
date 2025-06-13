@@ -19,7 +19,7 @@ its called euler's equation and it isn't just math, its philosophy disguised as 
 
 \\(\exp()\\) represents growth, change and life.
 
-\\(\i\\) represents the imaginary, mystery and contradiction.
+\\(\iota\\) represents the imaginary, mystery and contradiction.
 
 \\(\pi\\) represents cycle, unity and the infinite.
 
