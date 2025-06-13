@@ -37,8 +37,29 @@ and the equation binds them together in perfect coexistence. and how the equatio
 
 now substitute \\(ix\\) into the exponential series.
 
-\\[e^{ix} = \sum_{n=0}{\infty} \frac{(ix)^n}{n!}\\]
+\\[e^{ix} = \sum_{n=0}^{\infty} \frac{(ix)^n}{n!}\\]
 
 if we split the above equation into odd and even powers.
 
-\\[e^{ix} = \sum_{n=0}{\infty} \frac{(ix)^{2n}}{(2n)!} + \sum_{n=0}{\infty} \frac{(ix)^{2n + 1}}{(2n + 1)!}\\]
+\\[e^{ix} = \sum_{n=0}^{\infty} \frac{(ix)^{2n}}{(2n)!} + \sum_{n=0}{\infty} \frac{(ix)^{2n + 1}}{(2n + 1)!}\\]
+
+if we use the powers of \\(i\\):
+
+ - \\(i^2 = -1\\)
+ - \\(i^3 = -i\\)
+ - \\(i^4 = 1\\)
+ - ...
+
+so...
+
+\\[e^{ix} = \sum_{n=0}^{\infty} \frac{(-1)^{n} x^{2n}}{(2n)!} + \sum_{n=0}^{\infty} \frac{(-1)^{n} x^{2n + 1}}{(2n + 1)!}\\]
+
+if we substitute the other taylor series into the equation above, then we get.
+
+\\[e^{ix} = \cos{x} + i\sin{x}\\]
+
+cool right? ok, i'll take a step back from the math of it. just hit me how beautiful the equation was philosophically and plus, i was like addicted to the math behind it since 8th grade. yea, i used to be a math geek (maybe still am). anyways that'll be all today.
+
+tbh i am feeling a little existential today. i haven't done anything in the past 3 weeks and it just hit me. i really need to get back on my projects. i haven't updated the projects part of my website in a month or two. yep, my worst nightmare has come true. i am a useless potato right now. hopefully i change that the coming week. let's see if i can sign up for some events.
+
+ - ask.
