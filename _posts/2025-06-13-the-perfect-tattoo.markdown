@@ -19,7 +19,7 @@ its called euler's equation and it isn't just math, its philosophy disguised as 
 
 \\(e\\) represents growth, change and life.
 
-\\(\iota\\) represents the imaginary, mystery and contradiction.
+\\(i\\) represents the imaginary, mystery and contradiction.
 
 \\(\pi\\) represents cycle, unity and the infinite.
 
@@ -27,4 +27,10 @@ its called euler's equation and it isn't just math, its philosophy disguised as 
 
 0 represents nothingness and the void.
 
-and the equation binds them together in perfect coexistence. and how the equation comes to be? well it begins with the taylor series of \\(e^{x}\\), \\(\cos(x)\\) and \\(\sin(x)\\).
+and the equation binds them together in perfect coexistence. and how the equation comes to be? well it begins with the taylor series of \\(e^{x}\\), \\(\cos{x}\\) and \\(\sin{x}\\).
+
+\\[e^{x} = \sum_{n=0}^{\infty} \frac{x^n}{n!}\\]
+
+\\[\cos{x} = \sum_{n=0}^{\infty} \frac{(-1)^{n} x^{2n}}{(2n)!}\\]
+
+\\[\sin{x} = \sum_{n=0}^{\infty} \frac{(-1)^{n} x^{2n + 1}}{(2n + 1)!}\\]
