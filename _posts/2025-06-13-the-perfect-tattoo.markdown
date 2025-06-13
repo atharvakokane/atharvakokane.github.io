@@ -17,4 +17,4 @@ a friend of mine asked me recently what would my first tattoo and i was clueless
 
 its called euler's equation and it isn't just math, its philosophy disguised as a formula. now why this formula? well my life has been a roller coaster and every symbol in the equation resembles a phase in my life. let's delve shall we?
 
-\\(e^{i\pi} + 1 = 0 \\)
+\\(e^{i\pi} + 1 = 0 \\) is the eulers equation
