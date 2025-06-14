@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "kp chai."
-date:   2025-06-15 01:03 +0400
+date:   2025-06-14 12:03 +0400
 categories:
 mathjax: false
 ---
 
-_15th june 2025, sunday_
+_14th june 2025, saturday_
 
 # kp chai.
 ---
