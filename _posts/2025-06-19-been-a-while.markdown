@@ -16,4 +16,7 @@ hey guys, been a while. yes i know i have been blogging in cipher recently. let'
 
 i have decided to ignore my mental health for minute again. i found a new startup who wants me to build something for them and thus begins a new project. they need a new website and i decided to collaborate with a good friend of mine. let's see how it pans out shall we? i am meeting the founder today for basic consulting and to see what she wants. im leaving for the meeting now. i will finish this blog later today.
 
+22:15
+just had dinner after coming back from the consulatation meeting. now, i have a few ideas. let's try them out shall we? i am just going to try to make a custom cursor now using a js and css package. i hope this doesn't crash and burn.
+
  - ask.
