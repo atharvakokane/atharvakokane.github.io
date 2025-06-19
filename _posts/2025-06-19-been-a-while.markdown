@@ -19,4 +19,7 @@ i have decided to ignore my mental health for minute again. i found a new startu
 22:15
 just had dinner after coming back from the consulatation meeting. now, i have a few ideas. let's try them out shall we? i am just going to try to make a custom cursor now using a js and css package. i hope this doesn't crash and burn.
 
+00:53
+so... i learnt a lot. i just need to implement it now. hopefully tomorrow we get a draft done. for now goodnight.
+
  - ask.
