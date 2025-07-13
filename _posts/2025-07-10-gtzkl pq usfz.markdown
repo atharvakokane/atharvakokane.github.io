@@ -8,7 +8,7 @@ mathjax: false
 
 _10th july 2025, thursday_
 
-note: copy paste the whole text below into **DECODE** except my signature and put in the key. <a href = "https://www.cs.du.edu/~snarayan/crypt/vigenere.html">decode it here</a>.
+note: copy paste the whole text below into **DECODE** except my signature and put in the key. <a href = "https://www.cs.du.edu/~snarayan/crypt/vigenere.html" target = "blank">decode it here</a>.
 
 # gtzkl pq usfz.
 ---
