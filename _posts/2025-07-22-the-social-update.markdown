@@ -21,4 +21,6 @@ also, beimun '25 was such a huge success onsite. the online conference, not so m
 
 that's all for now. i will see you guys soon again. i know that these blogs of mine are getting less and less frequent and i haven't updated my projects page in a while, but i have decided to take a break from my projects for now. i have been focusing on my social sphere for now and just chilling until university begins. virginia tech class of '29 here i come!
 
+j swhw jylas jd bjwbeqfy zzc owmw xjwueg yasw. q kwf epw hjnbmjfd ggm qzal, qpf awwn wqcw zzc sjf sinaor nmf. ulsw ubcm. cwfa asxf. swhw zzc sjf swhw zzc sjf duadjyo s djebdw nzzw lipaw vbja.
+
  - ask.
