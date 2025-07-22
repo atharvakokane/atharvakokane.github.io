@@ -23,4 +23,7 @@ that's all for now. i will see you guys soon again. i know that these blogs of m
 
 j swhw jylas jd bjwbeqfy zzc owmw xjwueg yasw. q kwf epw hjnbmjfd ggm qzal, qpf awwn wqcw zzc sjf sinaor nmf. ulsw ubcm. cwfa asxf. swhw zzc sjf swhw zzc sjf duadjyo s djebdw nzzw lipaw vbja.
 
+edit:
+the beach planned was bailed on. time to indulge in some of the greatest movies ever, starting with the great gatsby.
+
  - ask.
