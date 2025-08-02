@@ -21,7 +21,6 @@ mathjax: true
 
 # ongoing projects.
 
-> - [enter short film name here.](#short_film)
 
 # completed projects.
 > - [amitydxb mun 2025.](#amitydxb_mun_2025)
@@ -32,6 +31,7 @@ mathjax: true
 > - [tetris.](#tetris)
 
 # dormant projects.
+> - [enter short film name here.](#short_film)
 > - [our little cave.](#our_little_cave)
 > - [strange attractors.](#strange_attractors)
 
@@ -44,6 +44,8 @@ so yes, i'm filming another one. we haven't really decided on a name yet. but, i
 **_log_**:
 
 **22nd may**: wrote a draft idea down. let's see where it heads. sent it to zayan khan, let's wait for some feedback.
+
+decided to step back from this project for a while. probably will start filming again at virginia tech.
 
 <a id = "amitydxb_mun_2025"></a>
 
