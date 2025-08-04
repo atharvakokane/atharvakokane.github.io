@@ -32,7 +32,6 @@ mathjax: true
 > - [tetris.](#tetris)
 
 # dormant projects.
-> - [enter short film name here.](#short_film)
 > - [our little cave.](#our_little_cave)
 > - [strange attractors.](#strange_attractors)
 
@@ -45,18 +44,6 @@ i started to analyze the unabomber manifesto. i read the first few paragraphs a 
 **_log_**:
 
 **3rd august**: started analyzing the manifesto and theodore kaczynski today. finished with the introduction. 
-
-<a id = "short_film"></a>
-
-# enter short film name here.
----
-so yes, i'm filming another one. we haven't really decided on a name yet. but, i really want to thank zayan khan to get me back in the game. we will see you soon hopefully.
-
-**_log_**:
-
-**22nd may**: wrote a draft idea down. let's see where it heads. sent it to zayan khan, let's wait for some feedback.
-
-decided to step back from this project for a while. probably will start filming again at virginia tech.
 
 <a id = "amitydxb_mun_2025"></a>
 
