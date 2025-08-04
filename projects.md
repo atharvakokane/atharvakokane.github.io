@@ -21,6 +21,7 @@ mathjax: true
 
 # ongoing projects.
 
+> - [the industrial society and its future.](#the_industrial_society_and_its_future)
 
 # completed projects.
 > - [amitydxb mun 2025.](#amitydxb_mun_2025)
@@ -34,6 +35,16 @@ mathjax: true
 > - [enter short film name here.](#short_film)
 > - [our little cave.](#our_little_cave)
 > - [strange attractors.](#strange_attractors)
+
+<a id = "#the_industrial_society_and_its_future"></a>
+
+# the industrial society and its future.
+---
+i started to analyze the unabomber manifesto. i read the first few paragraphs a while back and thought it was very well written, so i thought of skimming the whole thing. lets see where this leads us.
+
+**_log_**:
+
+**3rd august**: started analyzing the manifesto and theodore kaczynski today. finished with the introduction. 
 
 <a id = "short_film"></a>
 
