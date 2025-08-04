@@ -35,7 +35,7 @@ mathjax: true
 > - [our little cave.](#our_little_cave)
 > - [strange attractors.](#strange_attractors)
 
-<a id = "#the_industrial_society_and_its_future"></a>
+<a id = "the_industrial_society_and_its_future"></a>
 
 # the industrial society and its future.
 ---
