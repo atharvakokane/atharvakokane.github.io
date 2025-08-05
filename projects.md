@@ -43,7 +43,9 @@ i started to analyze the unabomber manifesto. i read the first few paragraphs a 
 
 **_log_**:
 
-**3rd august**: started analyzing the manifesto and theodore kaczynski today. finished with the introduction. 
+**3rd august**: started analyzing the manifesto and theodore kaczynski today. finished with the introduction.
+
+<br />**6th august**: its been 3 days in and i love reading this because it is so true. crazy how someone in 1995 predicted something that we would end up in 30 years later. i am writing down notes on the side while reading the text as well. lets see if i can find something interesting in the end.
 
 <a id = "amitydxb_mun_2025"></a>
 
