@@ -47,6 +47,8 @@ i started to analyze the unabomber manifesto. i read the first few paragraphs a 
 
 <br />**6th august**: its been 3 days in and i love reading this because it is so true. crazy how someone in 1995 predicted something that we would end up in 30 years later. i am writing down notes on the side while reading the text as well. lets see if i can find something interesting in the end.
 
+<br />**11th august**: and i learnt a new lesson. don't over analyze a text. i wrote too much and now i decided to just write the summary of what i learnt in the end. i am about 15 pages in now and there are alot of interesting idealogies. i need to really dig in on the flight i have tomorrow.
+
 <a id = "amitydxb_mun_2025"></a>
 
 # amitydxb mun 2025.
