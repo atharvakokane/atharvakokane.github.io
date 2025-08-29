@@ -17,14 +17,14 @@ $$
 M(p) = |a| \prod_{|\alpha_i| \geq 1} |\alpha_i| = |a| \prod_{i=1}^n \max(1, |\alpha_i|)
 $$
 
-
+<br />
 where $$p(z)$$ factorizes over the complex numbers $$\mathbb{C}$$ as:
 
 $$
 p(z) = a(z - \alpha_1)(z - \alpha_2)...(z - \alpha_n)
 $$
 
-
+<br />
 the place to start apparently is complex analysis. so, time for some revision i guess. i will start with some youtube lectures. i need to buy notebooks for this. 3 notebooks it is, for my chemistry, math and this stuff. i really hope this leads somewhere.
 
  - ask.
