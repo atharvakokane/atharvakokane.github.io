@@ -33,4 +33,4 @@ disclaimer: this is my definition of social constructionism for a more accurate 
 
 my theory behind why we study the science of social constructs starts from understanding humans. how do we understand humans? we understand them by understanding how they feel and their emotions. the same goes for communities and social classes; we understand them by understanding social constructs. that's my theory anyway.
 
--- ask.
+ - ask.
