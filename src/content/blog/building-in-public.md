@@ -1,3 +1,9 @@
+---
+title: Building in public
+date: 2026-01-03
+excerpt: I've always believed in the power of building in public. Here's why.
+---
+
 # Building in public
 
 I've always believed in the power of building in public. Here's why.

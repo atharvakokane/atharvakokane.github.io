@@ -1,8 +1,10 @@
 import { Link } from "react-router-dom";
 import Layout from "@/components/Layout";
-import { blogPosts } from "@/data/blogPosts";
+import { getAllPosts } from "@/lib/blog";
 
 const Blog = () => {
+  const posts = getAllPosts();
+
   return (
     <Layout>
       <article className="space-y-8">
@@ -15,7 +17,7 @@ const Blog = () => {
         </p>
 
         <div className="space-y-8 pt-4">
-          {blogPosts.map((post) => (
+          {posts.map((post) => (
             <Link
               key={post.slug}
               to={`/blog/${post.slug}`}
@@ -29,7 +31,7 @@ const Blog = () => {
                     day: "numeric",
                   })}
                 </time>
-                <h2 className="text-xl font-semibold text-foreground group-hover:text-accent transition-colors">
+                <h2 className="text-xl font-semibold text-foreground group-hover:opacity-60 transition-opacity">
                   {post.title}
                 </h2>
                 <p className="text-muted-foreground leading-relaxed">
