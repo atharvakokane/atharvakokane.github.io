@@ -1,13 +1,49 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import Layout from "@/components/Layout";
 
 const Index = () => {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
-    </div>
+    <Layout>
+      <article className="space-y-6">
+        <h1 className="text-4xl md:text-5xl font-bold text-foreground leading-tight">
+          hi, i'm [your name].
+        </h1>
+
+        <p className="text-muted-foreground text-lg leading-relaxed">
+          i'm just a person that loves building things and sharing ideas.
+        </p>
+
+        <p className="text-muted-foreground text-lg leading-relaxed">
+          i spend most of my time working on projects that interest me, 
+          writing about what i learn, and exploring new technologies.
+        </p>
+
+        <p className="text-muted-foreground text-lg leading-relaxed">
+          currently focused on building useful tools and experimenting 
+          with new ideas. check out my{" "}
+          <a href="/blog" className="text-accent hover:underline">
+            blog
+          </a>{" "}
+          to see what i've been thinking about lately.
+        </p>
+
+        <p className="text-muted-foreground text-lg leading-relaxed">
+          you can find my work history and experience on my{" "}
+          <a href="/resume" className="text-accent hover:underline">
+            resume
+          </a>
+          .
+        </p>
+
+        <div className="pt-8 border-t border-border">
+          <p className="text-muted-foreground text-sm">
+            feel free to reach out —{" "}
+            <a href="mailto:hello@example.com" className="text-accent hover:underline">
+              hello@example.com
+            </a>
+          </p>
+        </div>
+      </article>
+    </Layout>
   );
 };
 
