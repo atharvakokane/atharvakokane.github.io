@@ -5,7 +5,7 @@ const Index = () => {
     <Layout>
       <article className="space-y-6">
         <h1 className="text-4xl md:text-5xl font-bold text-foreground leading-tight">
-          hi, i'm [your name].
+          hi, i'm atharva.
         </h1>
 
         <p className="text-muted-foreground text-lg leading-relaxed">
