@@ -21,10 +21,10 @@ const Layout = ({ children }: LayoutProps) => {
             <Link
               key={link.path}
               to={link.path}
-              className={`text-sm underline underline-offset-4 transition-colors ${
+              className={`text-sm link-hover transition-opacity duration-200 ${
                 location.pathname === link.path
                   ? "text-foreground"
-                  : "text-accent hover:text-foreground"
+                  : "text-accent hover:opacity-60"
               }`}
             >
               {link.label}

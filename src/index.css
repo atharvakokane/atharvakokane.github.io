@@ -22,15 +22,15 @@
     --muted: 0 0% 15%;
     --muted-foreground: 0 0% 55%;
 
-    --accent: 210 100% 60%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 0 0% 100%;
+    --accent-foreground: 0 0% 0%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
     --border: 0 0% 20%;
     --input: 0 0% 20%;
-    --ring: 210 100% 60%;
+    --ring: 0 0% 100%;
 
     --radius: 0.25rem;
 
@@ -63,7 +63,7 @@
     --destructive-foreground: 0 0% 95%;
     --border: 0 0% 20%;
     --input: 0 0% 20%;
-    --ring: 210 100% 60%;
+    --ring: 0 0% 100%;
   }
 }
 
@@ -82,10 +82,29 @@
   }
 
   a {
-    @apply text-accent hover:underline transition-colors;
+    @apply text-accent transition-all duration-200;
+  }
+
+  a:hover {
+    @apply opacity-60;
   }
 
   ::selection {
-    @apply bg-accent/30;
+    @apply bg-foreground/20;
+  }
+}
+
+@layer utilities {
+  .link-hover {
+    @apply relative inline-block;
+  }
+  
+  .link-hover::after {
+    content: '';
+    @apply absolute w-full scale-x-0 h-[1px] bottom-0 left-0 bg-accent origin-bottom-right transition-transform duration-300;
+  }
+  
+  .link-hover:hover::after {
+    @apply scale-x-100 origin-bottom-left;
   }
 }
