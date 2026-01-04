@@ -40,7 +40,7 @@ const Resume = () => {
               alternatively, you can{" "}
               <a
                 href="mailto:hello@example.com"
-                className="text-accent hover:underline"
+                className="link-hover"
               >
                 email me
               </a>{" "}

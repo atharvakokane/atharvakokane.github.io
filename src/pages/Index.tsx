@@ -20,7 +20,7 @@ const Index = () => {
         <p className="text-muted-foreground text-lg leading-relaxed">
           currently focused on building useful tools and experimenting 
           with new ideas. check out my{" "}
-          <a href="/blog" className="text-accent hover:underline">
+          <a href="/blog" className="link-hover">
             blog
           </a>{" "}
           to see what i've been thinking about lately.
@@ -28,7 +28,7 @@ const Index = () => {
 
         <p className="text-muted-foreground text-lg leading-relaxed">
           you can find my work history and experience on my{" "}
-          <a href="/resume" className="text-accent hover:underline">
+          <a href="/resume" className="link-hover">
             resume
           </a>
           .
@@ -37,7 +37,7 @@ const Index = () => {
         <div className="pt-8 border-t border-border">
           <p className="text-muted-foreground text-sm">
             feel free to reach out —{" "}
-            <a href="mailto:hello@example.com" className="text-accent hover:underline">
+            <a href="mailto:hello@example.com" className="link-hover">
               hello@example.com
             </a>
           </p>
