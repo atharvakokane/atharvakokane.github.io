@@ -1,17 +1,17 @@
 import { useParams, Link } from "react-router-dom";
 import Layout from "@/components/Layout";
-import { blogPosts } from "@/data/blogPosts";
+import { getPostBySlug } from "@/lib/blog";
 
 const BlogPost = () => {
   const { slug } = useParams<{ slug: string }>();
-  const post = blogPosts.find((p) => p.slug === slug);
+  const post = getPostBySlug(slug || "");
 
   if (!post) {
     return (
       <Layout>
         <div className="space-y-4">
           <h1 className="text-4xl font-bold text-foreground">Post not found</h1>
-          <Link to="/blog" className="text-accent hover:underline">
+          <Link to="/blog" className="link-hover">
             ← back to blog
           </Link>
         </div>
@@ -76,7 +76,7 @@ const BlogPost = () => {
   return (
     <Layout>
       <article className="space-y-6">
-        <Link to="/blog" className="text-accent hover:underline text-sm">
+        <Link to="/blog" className="link-hover text-sm">
           ← back to blog
         </Link>
 
