@@ -12,6 +12,8 @@ blacksburg, va, usa
 
 computer science summer program
 
+st. hugh's college, oxford, uk
+
  - **coursework:** cisco packet tracer, osi model, ethics of ai, networks
 
 ## experience
