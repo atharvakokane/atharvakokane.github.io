@@ -1,6 +1,6 @@
 ---
 title: mahler measure
-date: 2025-06-26
+date: 2025-08-29
 excerpt: an unsolved problem
 ---
 
