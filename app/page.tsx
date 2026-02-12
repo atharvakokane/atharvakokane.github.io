@@ -16,7 +16,6 @@ export default function HomePage() {
         </h1>
         <p className="text-foreground leading-relaxed max-w-xl text-lg">
           hi. i write about code, projects, and things i find interesting.
-          minimalist by design.
         </p>
       </section>
 
