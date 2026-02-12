@@ -3,16 +3,21 @@
 ## education
 
 **virginia tech**
+
 b.s. computer science
+
 blacksburg, va, usa
 
 **university of oxford**
+
 computer science summer program
-cisco packet tracer, osi model, ethics of ai, networks
+
+**coursework:** cisco packet tracer, osi model, ethics of ai, networks
 
 ## experience
 
 **senator of the college of engineering**
+
 undergraduate student senate
 
 - placed on commission of research and commission of undergraduate student affairs; brac committee with bov representative
@@ -20,8 +25,11 @@ undergraduate student senate
 - collaborated with administrators and board of visitors on data-driven recommendations
 
 **project intern**
+
 vision concept aviation training institute
+
 aug 2024 – sep 2024
+
 dubai, uae
 
 - python-based banking simulation with secure transaction processing for aviation environment
@@ -29,8 +37,11 @@ dubai, uae
 - cfd analyses for airflow patterns and flap efficiency
 
 **ai and robotics intern**
+
 charotar university of science and technology
+
 mar 2024 – apr 2024
+
 gujarat, india
 
 - arduino-based systems for crisis response and automation
@@ -38,8 +49,11 @@ gujarat, india
 - cross-functional deployment during live demonstrations
 
 **web developer**
+
 young minds united
+
 feb 2024 – dec 2024
+
 remote
 
 - developed and maintained content for international audience
@@ -48,15 +62,21 @@ remote
 ## projects
 
 **moleiq**
+
 nov 2025 – dec 2025
+
 chatbot for lab safety and sds sheet compliance
 
 **pause.**
+
 apr 2025 – may 2025
+
 game therapy website for mental wellbeing. finalist, uae innovaite hackathon 2025
 
 **memorease.**
+
 mar 2025 – apr 2025
+
 ai assistant for memory support (national multiple sclerosis society)
 
 ## skills

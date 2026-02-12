@@ -94,7 +94,7 @@ body {
 }
 
 .resume-content p + p {
-  margin-top: 0.25rem;
+  margin-top: 0.5rem;
 }
 
 .resume-content ul {
@@ -148,4 +148,47 @@ body {
 /* contact - space between email and linkedin */
 .resume-content h2:last-of-type + p + p {
   margin-top: 1rem;
+}
+
+/* blog post - paragraph spacing */
+.blog-post-content p {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  color: #a3a3a3;
+  line-height: 1.7;
+}
+
+.blog-post-content p:last-child {
+  margin-bottom: 0;
+}
+
+.blog-post-content h2,
+.blog-post-content h3 {
+  color: white;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.blog-post-content h2:first-child,
+.blog-post-content h3:first-child {
+  margin-top: 0;
+}
+
+.blog-post-content a {
+  color: #a3a3a3;
+}
+
+.blog-post-content a:hover {
+  color: #d4d4d4;
+}
+
+.blog-post-content code {
+  color: #a3a3a3;
+}
+
+.blog-post-content pre {
+  background: #171717;
+  border: 1px solid #262626;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
 }
