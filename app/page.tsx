@@ -11,7 +11,7 @@ export default function HomePage() {
     <div className="space-y-24">
       <section className="space-y-6 animate-fade-in-up">
         <div className="w-12 h-px bg-border mb-8" />
-        <h1 className="text-4xl md:text-5xl font-normal text-white tracking-tight">
+        <h1 className="text-4xl md:text-5xl font-normal text-bright tracking-tight">
           atharva kokane
         </h1>
         <p className="text-foreground leading-relaxed max-w-xl text-lg">
@@ -34,7 +34,7 @@ export default function HomePage() {
                   href={`/blog/${post.slug}/`}
                   className="block py-4 border-b border-border/50 hover:border-accent/30 transition-colors duration-300 group"
                 >
-                  <span className="text-white group-hover:text-accent transition-colors duration-300">
+                  <span className="text-bright group-hover:text-accent transition-colors duration-300">
                     {post.title}
                   </span>
                   <span className="text-muted text-sm ml-2">

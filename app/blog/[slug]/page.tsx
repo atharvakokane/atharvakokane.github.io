@@ -36,7 +36,7 @@ export default async function BlogPostPage({
       <header className="animate-fade-in-up">
         <div className="w-12 h-px bg-border mb-4" />
         <div className="flex items-baseline justify-between gap-4">
-          <h1 className="text-4xl font-normal text-white tracking-tight">{post.title}</h1>
+          <h1 className="text-4xl font-normal text-bright tracking-tight">{post.title}</h1>
           <Link
             href="/blog/"
             className="text-foreground hover:text-accent transition-colors duration-300 text-sm tracking-wide shrink-0"

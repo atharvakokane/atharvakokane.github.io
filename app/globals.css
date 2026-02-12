@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --background: #0a0a0a;
+  --background: #080808;
   --foreground: #a3a3a3;
   --muted: #737373;
   --border: #262626;
@@ -115,7 +115,7 @@ body {
 }
 
 .resume-content strong {
-  color: #e5e5e5;
+  color: #f5f5f5;
   font-weight: 500;
 }
 
@@ -164,7 +164,7 @@ body {
 
 .blog-post-content h2,
 .blog-post-content h3 {
-  color: white;
+  color: #f5f5f5;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
 }

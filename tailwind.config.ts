@@ -9,11 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: '#0a0a0a',
+        background: '#080808',
         foreground: '#a3a3a3',
         muted: '#737373',
         border: '#262626',
         accent: '#d4d4d4',
+        bright: '#f5f5f5',
       },
       fontFamily: {
         sans: ['system-ui', '-apple-system', 'sans-serif'],

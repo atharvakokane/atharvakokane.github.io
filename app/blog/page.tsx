@@ -22,7 +22,7 @@ export default function BlogIndexPage() {
     <div className="space-y-16">
       <header className="animate-fade-in-up">
         <div className="w-12 h-px bg-border mb-8" />
-        <h1 className="text-4xl font-normal text-white tracking-tight">blog</h1>
+        <h1 className="text-4xl font-normal text-bright tracking-tight">blog</h1>
         <p className="text-muted mt-2 tracking-wide">all posts</p>
       </header>
 
@@ -33,7 +33,7 @@ export default function BlogIndexPage() {
               href={`/blog/${post.slug}/`}
               className="block py-8 border-b border-border/50 hover:border-accent/30 transition-colors duration-300 group"
             >
-              <h2 className="text-xl text-white group-hover:text-accent transition-colors duration-300">
+              <h2 className="text-xl text-bright group-hover:text-accent transition-colors duration-300">
                 {post.title}
               </h2>
               <p className="text-muted text-sm mt-2">

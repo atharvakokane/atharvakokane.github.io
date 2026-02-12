@@ -14,7 +14,7 @@ export default async function ResumePage() {
     <div className="space-y-24">
       <header className="animate-fade-in-up">
         <div className="w-12 h-px bg-border mb-6" />
-        <h1 className="text-4xl font-normal text-white tracking-tight">resume</h1>
+        <h1 className="text-4xl font-normal text-bright tracking-tight">resume</h1>
         <a
           href="https://drive.google.com/file/d/1fIKJW-9u3C9KU7Y329AzDK8OmH6V9OTS/view?usp=drive_link"
           target="_blank"
