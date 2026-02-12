@@ -22,7 +22,11 @@ st. hugh's college, oxford, uk
 
 **senator of the college of engineering**
 
-undergraduate student senate
+undergraduate student senate @ virginia tech
+
+sep 2025 - present
+
+blacksburg, va, usa
 
 - placed on commission of research and commission of undergraduate student affairs; brac committee with bov representative
 - represented 750+ engineering students; drafted policy proposals on academic resources, accessibility, wellbeing
