@@ -176,6 +176,8 @@ body {
 
 .blog-post-content a {
   color: #a3a3a3;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .blog-post-content a:hover {
@@ -191,4 +193,9 @@ body {
   border: 1px solid #262626;
   margin-top: 1rem;
   margin-bottom: 1.5rem;
+}
+
+/* KaTeX math - dark theme override */
+.blog-post-content .katex {
+  font-size: 1.1em;
 }

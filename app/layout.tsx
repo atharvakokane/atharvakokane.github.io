@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import 'highlight.js/styles/github-dark.css';
+import 'katex/dist/katex.min.css';
 import { Nav } from '@/components/Nav';
 
 export const metadata: Metadata = {
