@@ -1,0 +1,146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #a3a3a3;
+  --muted: #737373;
+  --border: #262626;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* syntax highlighting - dark theme */
+.hljs {
+  background: #171717;
+  color: #a3a3a3;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  overflow-x: auto;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #525252;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-addition {
+  color: #f472b6;
+}
+
+.hljs-number,
+.hljs-string,
+.hljs-meta .hljs-meta-string,
+.hljs-literal,
+.hljs-doctag,
+.hljs-regexp {
+  color: #86efac;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #93c5fd;
+}
+
+.hljs-built_in,
+.hljs-class .hljs-title {
+  color: #fcd34d;
+}
+
+/* resume page - clean, spacious */
+.resume-content {
+  max-width: 42rem;
+}
+
+.resume-content h1 {
+  display: none;
+}
+
+.resume-content h2 {
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: lowercase;
+  color: #737373;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0;
+  border: none;
+}
+
+.resume-content h2:first-of-type {
+  margin-top: 0;
+}
+
+.resume-content p {
+  color: #a3a3a3;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.resume-content p + p {
+  margin-top: 0.25rem;
+}
+
+.resume-content ul {
+  margin-top: 0.75rem;
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.resume-content li {
+  color: #a3a3a3;
+  font-size: 0.9375rem;
+  line-height: 1.65;
+  margin-bottom: 0.5rem;
+}
+
+.resume-content li:last-child {
+  margin-bottom: 0;
+}
+
+.resume-content strong {
+  color: #e5e5e5;
+  font-weight: 500;
+}
+
+.resume-content a {
+  color: #a3a3a3;
+  text-decoration: none;
+}
+
+.resume-content a:hover {
+  color: #d4d4d4;
+}
+
+/* job/role blocks - generous space between positions */
+.resume-content ul + p {
+  margin-top: 2.5rem;
+}
+
+.resume-content p + ul {
+  margin-top: 0.75rem;
+}
+
+.resume-content h2 + p {
+  margin-top: 0.5rem;
+}
+
+.resume-content h2 + p + p {
+  margin-top: 0.25rem;
+}
