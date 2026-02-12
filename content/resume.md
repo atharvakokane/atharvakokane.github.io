@@ -12,7 +12,7 @@ blacksburg, va, usa
 
 computer science summer program
 
-**coursework:** cisco packet tracer, osi model, ethics of ai, networks
+ - **coursework:** cisco packet tracer, osi model, ethics of ai, networks
 
 ## experience
 
