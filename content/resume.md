@@ -8,7 +8,7 @@ b.s. computer science
 
 blacksburg, va, usa
 
----
+ - **coursework:** software design and data structures, problem solving in computer science, calculus of a single variable, discrete mathematics, sociology, general chemistry
 
 **university of oxford**
 
@@ -27,8 +27,6 @@ undergraduate student senate
 - placed on commission of research and commission of undergraduate student affairs; brac committee with bov representative
 - represented 750+ engineering students; drafted policy proposals on academic resources, accessibility, wellbeing
 - collaborated with administrators and board of visitors on data-driven recommendations
-
----
 
 **project intern**
 
