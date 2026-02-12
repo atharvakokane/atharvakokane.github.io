@@ -22,7 +22,7 @@ export default function ContactPage() {
             href="mailto:atharvashashankk@vt.edu"
             className="inline-block text-white hover:text-accent transition-colors duration-300 text-lg py-2 border-b border-border/50 hover:border-accent/30 w-fit"
           >
-            atharvashashankk@vt.edu
+            email
           </a>
           <a
             href="https://www.linkedin.com/in/atharvakokane/"
@@ -31,6 +31,38 @@ export default function ContactPage() {
             className="inline-block text-white hover:text-accent transition-colors duration-300 text-lg py-2 border-b border-border/50 hover:border-accent/30 w-fit"
           >
             linkedin
+          </a>
+          <a
+            href="https://www.instagram.com/ath_arva_207/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-white hover:text-accent transition-colors duration-300 text-lg py-2 border-b border-border/50 hover:border-accent/30 w-fit"
+          >
+            instagram
+          </a>
+          <a
+            href="https://open.spotify.com/user/31fx6hhsizbggjfkbw4y4oyfpeqa"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-white hover:text-accent transition-colors duration-300 text-lg py-2 border-b border-border/50 hover:border-accent/30 w-fit"
+          >
+            spotify
+          </a>
+          <a
+            href="https://www.goodreads.com/user/show/154124312-atharva-kokane"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-white hover:text-accent transition-colors duration-300 text-lg py-2 border-b border-border/50 hover:border-accent/30 w-fit"
+          >
+            goodreads
+          </a>
+          <a
+            href="https://letterboxd.com/Atharva_kokane/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-white hover:text-accent transition-colors duration-300 text-lg py-2 border-b border-border/50 hover:border-accent/30 w-fit"
+          >
+            letterboxd
           </a>
         </div>
       </section>
