@@ -20,4 +20,10 @@ texted a friend over at john hopkins who is a phd student studying immunology. a
 
 this is not going great, but i will keep going. also hi rishita, if you are reading this.
 
+finally updated my resume and my website to include my newest project. now, back to applying to more research positions.
+
+## spring research at virginia tech
+
+rishita, is my cs mentor over here at tech, and she gave me a list of professors who might be taking on new undegraduates for research. i decided to make a template first and send it to rishita before mailing any professors. let's see what feedback we get back.
+
 **ask.**
