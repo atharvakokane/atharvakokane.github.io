@@ -28,4 +28,14 @@ rishita, is my cs mentor over here at tech, and she gave me a list of professors
 
 i am also hoping that these labs continue through the summer so that i can continue working on them through the break that i have. maybe even spring break? idk, let's see.
 
+mailed most of the professors from the list that i compiled. hopefully i get a few responses, but here are some of the topics of research.
+
+ - embedded capture the flag competition
+ - llm and hci: exploring ai-driven human-centered design
+ - uncrewed aerial systems traffic management
+ - research in digital library innovations lab
+ - artificial intelligence and machine learning for real-time decision-making with digital twins
+
+now, we wait for replies. until then we keep searching for more.
+
 **ask.**
