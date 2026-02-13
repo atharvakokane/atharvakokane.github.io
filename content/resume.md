@@ -28,9 +28,9 @@ sep 2025 - present
 
 blacksburg, va, usa
 
-- placed on commission of research and commission of undergraduate student affairs; brac committee with bov representative
-- represented 750+ engineering students; drafted policy proposals on academic resources, accessibility, wellbeing
-- collaborated with administrators and board of visitors on data-driven recommendations
+ - placed on the commission of research and the commission of undergraduate student affairs. working on the brac committee along side the representative to the bov to recommend solutions to the university.
+ - represented 750+ engineering students by drafting and advocating policy proposals addressing academic resources, accessibility, and student wellbeing.
+ - collaborated with university administrators and the Board of Visitors representative to analyze student feedback and develop data-driven recommendations.
 
 **project intern**
 
@@ -40,9 +40,9 @@ aug 2024 – sep 2024
 
 dubai, uae
 
-- python-based banking simulation with secure transaction processing for aviation environment
-- computational models for airplane flap mechanics (lift, drag, stability)
-- cfd analyses for airflow patterns and flap efficiency
+ - developed a python-based banking simulation system, integrating secure transaction processing and data handling to demonstrate financial operations in an aviation environment.
+ - developed and programmed computational models simulating airplane flap mechanics to analyze lift, drag, and stability during takeoff and landing.
+ - conducted computational fluid dynamics (cfd) analyses to study airflow patterns, pressure distribution, and overall flap efficiency under varying conditions.
 
 **ai and robotics intern**
 
@@ -52,9 +52,9 @@ mar 2024 – apr 2024
 
 gujarat, india
 
-- arduino-based systems for crisis response and automation
-- embedded c/c++ for response time and energy optimization
-- cross-functional deployment during live demonstrations
+ - designed and programmed arduino-based systems to address real-life crisis situations, focusing on automation and practical problem-solving through robotics applications.
+ - programmed embedded c/c++ logic to optimize response time and energy efficiency for crisis-response scenarios.
+ - collaborated in cross-functional teams to test, iterate, and deploy robotics solutions during live demonstrations.
 
 **web developer**
 
@@ -64,8 +64,8 @@ feb 2024 – dec 2024
 
 remote
 
-- developed and maintained content for international audience
-- responsive redesign; improved mobile usability
+ - developed, maintained, and updated information and articles on the Young Minds United website followed by members and students internationally.
+ - redesigned website structure using responsive design principles, improving mobile usability and engagement across global users.
 
 ## projects
 
@@ -73,19 +73,28 @@ remote
 
 nov 2025 – dec 2025
 
-chatbot for lab safety and sds sheet compliance
+**technologies used:** typescript, open source routing machine api, snowflake api, elevenlabs api, sql, css
+
+ - developed an interactive safety-focused campus routing application that calculates and visualizes the safest walking paths across virginia tech using historical crime data.
+ - designed and implemented dynamic route optimization by integrating mapping APIs with a custom safety-scoring algorithm to balance safety and travel time.
 
 **pause.**
 
 apr 2025 – may 2025
 
-game therapy website for mental wellbeing. finalist, uae innovaite hackathon 2025
+**technologies used:** html, css, javascript, python, scikit-learn, sql, pygame
+
+ - developed a browser-based game therapy platform designed to reduce stress and promote mental well-being through interactive, calming experiences grounded in behavioral psychology principles.
+ - built responsive front-end interfaces and integrated real-time user feedback mechanisms to personalize relaxation exercises; recognized as a finalist at the uae innovaite hackathon 2025.
 
 **memorease.**
 
 mar 2025 – apr 2025
 
-ai assistant for memory support (national multiple sclerosis society)
+**technologies used:** python, numpy, scikit-learn, openai api
+
+ - developed an ai-powered assistant integrated into an application designed to support individuals experiencing memory challenges, providing contextual reminders and adaptive cognitive prompts.
+ - engineered intelligent response logic and user-focused workflows to enhance accessibility and daily task management in collaboration with the national multiple sclerosis society.
 
 ## skills
 
