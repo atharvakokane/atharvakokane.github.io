@@ -16,7 +16,7 @@ export default async function ResumePage() {
         <div className="w-12 h-px bg-border mb-6" />
         <h1 className="text-4xl font-normal text-bright tracking-tight">resume</h1>
         <a
-          href="https://drive.google.com/file/d/1fIKJW-9u3C9KU7Y329AzDK8OmH6V9OTS/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1rJoNhTDqb5sKN4cEiTHE5lSIvpOJgB0X/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block mt-6 px-5 py-2.5 rounded-lg border border-border text-foreground hover:text-accent hover:border-accent/50 hover:scale-[1.02] transition-all duration-300 text-sm tracking-wide"
