@@ -26,4 +26,6 @@ finally updated my resume and my website to include my newest project. now, back
 
 rishita, is my cs mentor over here at tech, and she gave me a list of professors who might be taking on new undegraduates for research. i decided to make a template first and send it to rishita before mailing any professors. let's see what feedback we get back.
 
+i am also hoping that these labs continue through the summer so that i can continue working on them through the break that i have. maybe even spring break? idk, let's see.
+
 **ask.**
