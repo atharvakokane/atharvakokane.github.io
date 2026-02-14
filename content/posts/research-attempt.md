@@ -38,6 +38,8 @@ mailed most of the professors from the list that i compiled. hopefully i get a f
 
 now, we wait for replies. until then we keep searching for more.
 
+## updates from later days
+
 an update from yesterday, two strikes out of five. they said their labs are full. this is why i hate cold mailing professors.
 
 **ask.**
