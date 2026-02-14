@@ -195,7 +195,60 @@ body {
   margin-bottom: 1.5rem;
 }
 
-/* KaTeX math - dark theme override */
+/* blog post - bullet and numbered lists */
+.blog-post-content ul,
+.blog-post-content ol {
+  margin-top: 0.75rem;
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.blog-post-content ul {
+  list-style-type: disc;
+}
+
+.blog-post-content ol {
+  list-style-type: decimal;
+}
+
+.blog-post-content li {
+  color: #a3a3a3;
+  line-height: 1.7;
+  margin-bottom: 0.5rem;
+}
+
+.blog-post-content li:last-child {
+  margin-bottom: 0;
+}
+
+/* nested lists */
+.blog-post-content ul ul,
+.blog-post-content ol ol,
+.blog-post-content ul ol,
+.blog-post-content ol ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.blog-post-content ul ul {
+  list-style-type: circle;
+}
+
+.blog-post-content ul ul ul {
+  list-style-type: square;
+}
+
+.blog-post-content ol ol {
+  list-style-type: lower-alpha;
+}
+
+/* KaTeX math - dark theme override + glow on hover */
 .blog-post-content .katex {
   font-size: 1.1em;
+  transition: box-shadow 0.25s ease;
+}
+
+.blog-post-content .katex:hover {
+  box-shadow: 0 0 12px rgba(147, 197, 253, 0.4), 0 0 24px rgba(147, 197, 253, 0.2);
+  border-radius: 0.25rem;
 }
