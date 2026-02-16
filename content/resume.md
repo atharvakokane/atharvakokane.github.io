@@ -71,7 +71,7 @@ gujarat, india
 
 **hokieroute**
 
-nov 2025 – dec 2025
+feb 2026
 
 **technologies used:** typescript, open source routing machine api, snowflake api, elevenlabs api, sql, css
 
@@ -80,7 +80,7 @@ nov 2025 – dec 2025
 
 **pause.**
 
-apr 2025 – may 2025
+apr 2025
 
 **technologies used:** html, css, javascript, python, scikit-learn, sql, pygame
 
@@ -89,7 +89,7 @@ apr 2025 – may 2025
 
 **memorease.**
 
-mar 2025 – apr 2025
+mar 2025
 
 **technologies used:** python, numpy, scikit-learn, openai api
 
