@@ -20,6 +20,17 @@ st. hugh's college, oxford, uk
 
 ## experience
 
+**technical lead**
+
+google developer groups @ virginia tech
+
+jan 2026 - present
+
+ - Lead technical direction for student-led workshops, hackathons, and speaker events focused on software engineering, AI/ML, and cloud technologies.
+ - Design and deliver hands-on workshops covering full-stack development, APIs, version control, and modern development frameworks to 50+ students.
+ - Mentor project teams by reviewing architecture decisions, debugging production issues, and guiding best practices in scalable and maintainable code.
+ - Coordinate with executive board and industry partners to align technical programming with current industry trends and career development opportunities.
+
 **senator of the college of engineering**
 
 undergraduate student senate @ virginia tech
@@ -55,17 +66,6 @@ gujarat, india
  - designed and programmed arduino-based systems to address real-life crisis situations, focusing on automation and practical problem-solving through robotics applications.
  - programmed embedded c/c++ logic to optimize response time and energy efficiency for crisis-response scenarios.
  - collaborated in cross-functional teams to test, iterate, and deploy robotics solutions during live demonstrations.
-
-**web developer**
-
-young minds united
-
-feb 2024 – dec 2024
-
-remote
-
- - developed, maintained, and updated information and articles on the Young Minds United website followed by members and students internationally.
- - redesigned website structure using responsive design principles, improving mobile usability and engagement across global users.
 
 ## projects
 
