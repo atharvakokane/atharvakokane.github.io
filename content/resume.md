@@ -24,7 +24,7 @@ st. hugh's college, oxford, uk
 
 google developer groups @ virginia tech
 
-jan 2026 - present
+feb 2026 - present
 
  - Lead technical direction for student-led workshops, hackathons, and speaker events focused on software engineering, AI/ML, and cloud technologies.
  - Design and deliver hands-on workshops covering full-stack development, APIs, version control, and modern development frameworks to 50+ students.
