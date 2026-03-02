@@ -12,9 +12,11 @@ export default function HomePage() {
       <section className="space-y-6 animate-fade-in-up">
         <div className="w-12 h-px bg-border mb-8" />
         <h1 className="text-4xl md:text-5xl font-normal text-bright tracking-tight">
-          atharva kokane
+          atharva kokane.
         </h1>
         <p className="text-foreground leading-relaxed max-w-xl text-lg">
+          computer science freshmen @ virginia tech
+          software developer | data analyst | governance leader
           hi. i write about code, projects, and things i find interesting.
         </p>
       </section>
