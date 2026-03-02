@@ -15,8 +15,8 @@ export default function HomePage() {
           atharva kokane.
         </h1>
         <p className="text-foreground leading-relaxed max-w-xl text-lg">
-          computer science freshmen @ virginia tech<br />
-          software developer | data analyst | governance leader<br />
+          <b>computer science freshmen @ virginia tech</b><br />
+          <b>software developer | data analyst | governance leader</b><br />
           hi. i write about code, projects, and things i find interesting.
         </p>
       </section>
