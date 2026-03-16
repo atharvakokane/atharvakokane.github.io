@@ -11,3 +11,5 @@ so i booted cursor up, started up a new github repo and just start prompting som
 i then showed it to the president and she suggested a calendar. then it hit me. yes, of course. how could i be so dumb. i immediately added a calendar and then added the meetings to the calendar as reminders. when a senator or cabinet member would click on the reminder, they would be redirected to the governance page of that particular commission or committee. i think i have progressed it well for now, but a lot more work to do.
 
 i think we can start brute testing it, so i will suggest it at the next cabinet meeting. also showed it to another vice president. he loved it, and if he loved it, thats a great sign. hopefully this works out. i will keep you updated.
+
+**ask.**
