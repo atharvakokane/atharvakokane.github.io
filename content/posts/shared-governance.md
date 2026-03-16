@@ -12,4 +12,8 @@ i then showed it to the president and she suggested a calendar. then it hit me. 
 
 i think we can start brute testing it, so i will suggest it at the next cabinet meeting. also showed it to another vice president. he loved it, and if he loved it, thats a great sign. hopefully this works out. i will keep you updated.
 
+so, i realized that my stupid ass did not add a database to store the responses from senators, and i expected for the responses to be saved to every computer by just a local storage system. i really can be shallow sometimes. after my realization, i connected the js file that i had to a firebase api and firestore database to store the responses and reflect the same on the website accordingly.
+
+hopefully there are not anymore stupid mistakes that i made.
+
 **ask.**
